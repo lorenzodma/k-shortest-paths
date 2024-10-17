@@ -1,0 +1,972 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+CO0522,0522,Colombo (ang. via San Benedetto),,39.231410853805764,9.188667444850837,,https://www.ctmcagliari.it/fermate/fermata-CO0522,,,,1
+CU2096,2096,Cittadella Universitaria - Fronte Neuroscienze,,39.269124930939064,9.122436246875757,,https://www.ctmcagliari.it/fermate/fermata-CU2096,,,,2
+EU1163,1163,Europa (fronte parco),,39.289066810454964,9.007426568056127,,https://www.ctmcagliari.it/fermate/fermata-EU1163,,,,1
+FI2018,2018,Fiume (ang. via Novergia) ,,39.234775885737864,9.205001356023947,,https://www.ctmcagliari.it/fermate/fermata-FI2018,,,,1
+GC0862,0862,Cagna (ang. via Malpighi),,39.208875956546964,9.139539645360867,,https://www.ctmcagliari.it/fermate/fermata-GC0862,,,,1
+GP0762,0762,Peretti (fronte ospedale Brotzu),,39.251233358642564,9.108807046360367,,https://www.ctmcagliari.it/fermate/fermata-GP0762,,,,1
+IM0102,0102,Is Mirrionis (ang. via Fontana Raminosa),,39.237120319009764,9.105932950823857,,https://www.ctmcagliari.it/fermate/fermata-IM0102,,,,1
+LI0738,0738,Liguria (parco),,39.231105087401164,9.115643244209787,,https://www.ctmcagliari.it/fermate/fermata-LI0738,,,,1
+LL0327,0327,Vergine di Lluc (capolinea 5),,39.197179573501964,9.146918057740467,,https://www.ctmcagliari.it/fermate/fermata-LL0327,,,,1
+MA0492,0492,Manin (portici),,39.252475984737064,9.166692316377507,,https://www.ctmcagliari.it/fermate/fermata-MA0492,,,,1
+MA0493,0493,Manin (fronte via Sauro),,39.251014549916964,9.164692186644377,,https://www.ctmcagliari.it/fermate/fermata-MA0493,,,,1
+MA0636,0636,Marconi (Vigili del Fuoco),,39.241150108335164,9.149425120170247,,https://www.ctmcagliari.it/fermate/fermata-MA0636,,,,2
+PE0190,0190,Pergolesi (ang. via Donizetti),,39.221381473124364,9.129366207629277,,https://www.ctmcagliari.it/fermate/fermata-PE0190,,,,0
+SI2061,2061,Sant'Ignazio da Laconi (lato civico 56 angolo via Tigellio),,39.221315941586164,9.109815051285617,,https://www.ctmcagliari.it/fermate/fermata-SI2061,,,,2
+SV0346,0346,Schiavazzi (fronte scuola materna),,39.196034695596264,9.136184465426267,,https://www.ctmcagliari.it/fermate/fermata-SV0346,,,,2
+TS0634,0634,Trieste (fronte CTM),,39.222341202285464,9.102101477685177,,https://www.ctmcagliari.it/fermate/fermata-TS0634,,,,2
+CB0467,0467,Cabras (cantina sociale),,39.252605094374864,9.136757431297437,,https://www.ctmcagliari.it/fermate/fermata-CB0467,,,,1
+AZ2137,2137,delle Azalee (fronte civico 79),,39.261555040459664,9.149000841367747,,https://www.ctmcagliari.it/fermate/fermata-AZ2137,,,,0
+BU0070,0070,Buoncammino (fronte Carcere),,39.225832118671364,9.112789059036047,,https://www.ctmcagliari.it/fermate/fermata-BU0070,,,,1
+CD0092,0092,Cadello (uffici Città Metropolitana),,39.238483620092964,9.117280303849987,,https://www.ctmcagliari.it/fermate/fermata-CD0092,,,,1
+CP2035,2035,Capula (ang. via Belgrano),,39.231408971748364,9.122648594936537,,https://www.ctmcagliari.it/fermate/fermata-CP2035,,,,2
+DP1102,1102,De Petris (ang. via Manara),,39.234039319836264,9.187575185477057,,https://www.ctmcagliari.it/fermate/fermata-DP1102,,,,2
+DS0959,0959,delle Serre (fronte via Siliqua),,39.250907023128164,9.173582588171437,,https://www.ctmcagliari.it/fermate/fermata-DS0959,,,,1
+DV0424,0424,L. da Vinci (fronte Scuole),,39.219272917984264,9.282330482953777,,https://www.ctmcagliari.it/fermate/fermata-DV0424,,,,1
+EL0362,0362,Elmas (ang. via dell'Artigianato),,39.248521977137264,9.086182536183247,,https://www.ctmcagliari.it/fermate/fermata-EL0362,,,,1
+EU0913,0913,Europa (parco),,39.289242537845564,9.007192499861577,,https://www.ctmcagliari.it/fermate/fermata-EU0913,,,,1
+FB0452,0452,F.lli Bandiera (fronte via Bayle),,39.237300259766564,9.193712499068577,,https://www.ctmcagliari.it/fermate/fermata-FB0452,,,,2
+GT0141,0141,Giotto (giardini),,39.249519761053764,9.100463680116127,,https://www.ctmcagliari.it/fermate/fermata-GT0141,,,,1
+LB0315,0315,Libeccio (fronte via Aquilone),,39.202716744065764,9.146986076349837,,https://www.ctmcagliari.it/fermate/fermata-LB0315,,,,1
+LY0037,0037,La Plaia (mercato ittico),,39.214980102029264,9.101072527247377,,https://www.ctmcagliari.it/fermate/fermata-LY0037,,,,2
+PM1200,1200,Roma (Lato Stazione FS - capolinea 9),,39.215815895555964,9.109031906455997,,https://www.ctmcagliari.it/fermate/fermata-PM1200,,,,1
+RM0675,0675,Roma (cimitero),,39.259500870334764,9.172299434344917,,https://www.ctmcagliari.it/fermate/fermata-RM0675,,,,1
+SG1023,1023,San Giacomo (altezza civico 48),,39.218107906828564,9.119102389450537,,https://www.ctmcagliari.it/fermate/fermata-SG1023,,,,2
+BA0008,0008,Bacaredda (ang. via Benedetta),,39.227640654485364,9.119975489533967,,https://www.ctmcagliari.it/fermate/fermata-BA0008,,,,1
+BI0858,0858,Is Guadazzonis (Ospedale),,39.209550581954364,9.136753511853387,,https://www.ctmcagliari.it/fermate/fermata-BI0858,,,,0
+CD0091,0091,Cadello (fronte uffici Città Metropolitana),,39.237939834083464,9.115903387244027,,https://www.ctmcagliari.it/fermate/fermata-CD0091,,,,1
+DA0925,0925,Danimarca (ang. via Pitz'e Serra),,39.239774577896764,9.207667912979977,,https://www.ctmcagliari.it/fermate/fermata-DA0925,,,,1
+DV0414,0414,L. da Vinci (fronte Hotel Califfo),,39.223219691619164,9.248748644125967,,https://www.ctmcagliari.it/fermate/fermata-DV0414,,,,1
+GN2099,2099,Giorgino (Fronte traversa Porto Canale),,39.208295286570464,9.084655254135437,,https://www.ctmcagliari.it/fermate/fermata-GN2099,,,,2
+LP0322,0322,Poetto (fronte G.Rossi),,39.201019003151764,9.142708981428277,,https://www.ctmcagliari.it/fermate/fermata-LP0322,,,,1
+LP0374,0374,Poetto (fronte Ippodromo),,39.209643993266864,9.169077172250297,,https://www.ctmcagliari.it/fermate/fermata-LP0374,,,,0
+LS0349,0349,Lungosaline (fronte via Gorgona),,39.197218595743564,9.158147023944087,,https://www.ctmcagliari.it/fermate/fermata-LS0349,,,,0
+MS0768,0768,Is Maglias ( Azuni),,39.231755735067964,9.104315815884237,,https://www.ctmcagliari.it/fermate/fermata-MS0768,,,,1
+NZ0964,0964,Nazionale (biblioteca),,39.253673709401264,9.179316712120847,,https://www.ctmcagliari.it/fermate/fermata-NZ0964,,,,2
+PC0657,0657,Fermata Giorgino GdF,,39.210612117906064,9.080555335857777,,https://www.ctmcagliari.it/fermate/fermata-PC0657,,,,2
+PL0199,0199,Paoli (ang. via Settembrini),,39.220239034603964,9.123407844382327,,https://www.ctmcagliari.it/fermate/fermata-PL0199,,,,1
+PM0028,0028,Matteotti (Fronte Stazione ARST - capolinea PQ),,39.215535147845964,9.109292014550387,,https://www.ctmcagliari.it/fermate/fermata-PM0028,,,,1
+RV0238,0238,Riva Villasanta (ang. via dei Grilli),,39.237723096507164,9.125071940663087,,https://www.ctmcagliari.it/fermate/fermata-RV0238,,,,1
+SI0477,0477,Sicilia (ang. via Arborea),,39.244985563256964,9.188868229413437,,https://www.ctmcagliari.it/fermate/fermata-SI0477,,,,1
+SV2068,2068,San Vincenzo (lato civico 45),,39.226586357133464,9.115529170549357,,https://www.ctmcagliari.it/fermate/fermata-SV2068,,,,1
+TS1149,1149,Tamburino Sardo (ang. via Pirandello),,39.250832269139864,9.118158502064837,,https://www.ctmcagliari.it/fermate/fermata-TS1149,,,,1
+AL0017,0017,Alghero (ang. via Sonnino),,39.217793968866064,9.122056546823527,,https://www.ctmcagliari.it/fermate/fermata-AL0017,,,,1
+AU2007,2007,Dalla Chiesa (fronte via Austria),,39.235023054283764,9.210409575985057,,https://www.ctmcagliari.it/fermate/fermata-AU2007,,,,1
+CB0479,0479,Cabras (ang. via Italia),,39.252461136144264,9.136572432605897,,https://www.ctmcagliari.it/fermate/fermata-CB0479,,,,1
+IM0099,0099,Is Mirrionis (Ospedale),,39.236159022144464,9.107706879646037,,https://www.ctmcagliari.it/fermate/fermata-IM0099,,,,0
+MI0285,0285,Milano (ang. via Grosseto),,39.207858859345164,9.130783057550917,,https://www.ctmcagliari.it/fermate/fermata-MI0285,,,,1
+NA0625,0625,Nazionale (chiesa),,39.309835871963664,8.963291933075637,,https://www.ctmcagliari.it/fermate/fermata-NA0625,,,,1
+PI0703,0703,Piemonte (fronte via Ciusa),,39.239931813822264,9.198852034461107,,https://www.ctmcagliari.it/fermate/fermata-PI0703,,,,2
+PY0056,0056,Yenne (fronte via Azuni),,39.217995923254364,9.113603200219287,,https://www.ctmcagliari.it/fermate/fermata-PY0056,,,,2
+QR0098,0098,Quirra (fronte mercato),,39.239016334525364,9.106804875572007,,https://www.ctmcagliari.it/fermate/fermata-QR0098,,,,1
+RL0066,0066,Regina Elena (Terrapieno),,39.222172846624764,9.118145548633957,,https://www.ctmcagliari.it/fermate/fermata-RL0066,,,,2
+RT0748,0748,Regina Margherita (ex Manifattura Tabacchi),,39.213303538263864,9.116122408670687,,https://www.ctmcagliari.it/fermate/fermata-RT0748,,,,1
+SG1020,1020,San Giovanni (altezza civico 361),,39.223684843536664,9.119957528338877,,https://www.ctmcagliari.it/fermate/fermata-SG1020,,,,2
+ZU0532,0532,Zuddas (ang. via vico Zuddas),,39.252472381590264,9.145875848293007,,https://www.ctmcagliari.it/fermate/fermata-ZU0532,,,,2
+AD0265,0265,Diaz (uffici Abbanoa),,39.210177732557964,9.119568604632987,,https://www.ctmcagliari.it/fermate/fermata-AD0265,,,,1
+AL0018,0018,Alghero (ang. via Satta),,39.217708431139264,9.121992685954707,,https://www.ctmcagliari.it/fermate/fermata-AL0018,,,,1
+BR0916,0916,Brigata Sassari (ang. via Milano),,39.242926489065464,9.180384794377267,,https://www.ctmcagliari.it/fermate/fermata-BR0916,,,,2
+CA607,607,Cagliari (fronte via Principe di Piemonte),,39.288472125548464,9.003379470024887,,https://www.ctmcagliari.it/fermate/fermata-CA607,,,,0
+CD0090,0090,Cadello (parco),,39.235811179942264,9.113421331732497,,https://www.ctmcagliari.it/fermate/fermata-CD0090,,,,1
+CI1253,1253,Cimitero (ang. via Marconi),,39.245253299887464,9.193195503162817,,https://www.ctmcagliari.it/fermate/fermata-CI1253,,,,1
+DD0807,0807,Deliperi (scuola),,39.251610764165864,9.099929550458907,,https://www.ctmcagliari.it/fermate/fermata-DD0807,,,,0
+DV0423,0423,L. da Vinci (ang. via Taormina),,39.219119097575664,9.273147825625787,,https://www.ctmcagliari.it/fermate/fermata-DV0423,,,,1
+GC0836,0836,Giulio Cesare (ang. via del Redentore),,39.258637124017564,9.141205914847527,,https://www.ctmcagliari.it/fermate/fermata-GC0836,,,,2
+MA0220,0220,Marconi (Scuola Foscolo),,39.229321191692364,9.132461235825077,,https://www.ctmcagliari.it/fermate/fermata-MA0220,,,,1
+PF0626,0626,Piero della Francesca (fronte Centro Commerciale) ,,39.252998975594764,9.102520273619927,,https://www.ctmcagliari.it/fermate/fermata-PF0626,,,,1
+SD0639,0639,Cagliari (seconda fermata Ass -> Dec),,39.301707407795964,8.978799768887587,,https://www.ctmcagliari.it/fermate/fermata-SD0639,,,,2
+AF0613,0613,Africa (fronte Via Manin),,39.294360645284364,8.991399719508167,,https://www.ctmcagliari.it/fermate/fermata-AF0613,,,,1
+AG0819,0819,Argentina (scuola),,39.262939002622564,9.134305237534417,,https://www.ctmcagliari.it/fermate/fermata-AG0819,,,,1
+BU0069,0069,Buoncammino (ang. via Belvedere),,39.224992433836164,9.114492207114947,,https://www.ctmcagliari.it/fermate/fermata-BU0069,,,,2
+BV0672,0672,Bonorva (ang. via Calasetta),,39.254811997621364,9.174435406666207,,https://www.ctmcagliari.it/fermate/fermata-BV0672,,,,2
+CO1141,1141,Ciociaria (fronte via Nebida),,39.238288061924664,9.105026894482607,,https://www.ctmcagliari.it/fermate/fermata-CO1141,,,,1
+DA0272,0272,Dante (Tribunale Minori),,39.215369423428064,9.124909584816897,,https://www.ctmcagliari.it/fermate/fermata-DA0272,,,,2
+EL0680,0680,Lussu (ang. via Romagnino),,39.259322385264064,9.161663917241587,,https://www.ctmcagliari.it/fermate/fermata-EL0680,,,,2
+GO2077,2077,Goceano (fronte supermertato),,39.259947865682264,9.112716351508397,,https://www.ctmcagliari.it/fermate/fermata-GO2077,,,,1
+GS1126,1126,Agavi (fronte via dei Castagni),,39.255613094644664,9.122030826119757,,https://www.ctmcagliari.it/fermate/fermata-GS1126,,,,1
+LP0330,0330,Poetto (altezza civico 38),,39.198548340596564,9.147638929897657,,https://www.ctmcagliari.it/fermate/fermata-LP0330,,,,1
+LR2049,2049,Liri (località Santa Luria),,39.211342136557664,9.304243553069237,,https://www.ctmcagliari.it/fermate/fermata-LR2049,,,,2
+ME0167,0167,Merello (fronte via Vittorio  Veneto),,39.225744753649564,9.110441694037027,,https://www.ctmcagliari.it/fermate/fermata-ME0167,,,,2
+PO0159,0159,Pola (ang. via Mameli),,39.220486470482164,9.105434782704917,,https://www.ctmcagliari.it/fermate/fermata-PO0159,,,,2
+PS0834,0834,del Pino Solitario (fronte via Garofani),,39.271901069698764,9.052533087008427,,https://www.ctmcagliari.it/fermate/fermata-PS0834,,,,1
+PV0430,0430,S.P. Villasimius (ang. via dei Papaveri),,39.212214223086464,9.305000954539017,,https://www.ctmcagliari.it/fermate/fermata-PV0430,,,,2
+CT0228,0228,Castiglione (ang. via Sarpi),,39.229037103014364,9.128657957502207,,https://www.ctmcagliari.it/fermate/fermata-CT0228,,,,1
+DC2141,2141,Dolcetta (fronte civico 4),,39.240899208734364,9.093065708388907,,https://www.ctmcagliari.it/fermate/fermata-DC2141,,,,0
+DV0419,0419,L. da Vinci (fronte via Rio Solanas),,39.219613645900864,9.279293473156277,,https://www.ctmcagliari.it/fermate/fermata-DV0419,,,,2
+EC0717,0717,S'Ecca S'Arrideli (terza fermata),,39.241714426706564,9.261231297118147,,https://www.ctmcagliari.it/fermate/fermata-EC0717,,,,2
+EL0578,0578,Elmas (centro commerciale),,39.257798950831064,9.072695048893647,,https://www.ctmcagliari.it/fermate/fermata-EL0578,,,,2
+ET1124,1124,Toti (fronte scuole),,39.251463429367464,9.122144605817507,,https://www.ctmcagliari.it/fermate/fermata-ET1124,,,,1
+FL0413,0413,Flumini,,39.221403463632164,9.286249578539337,,https://www.ctmcagliari.it/fermate/fermata-FL0413,,,,1
+GN0118,0118,Angioni (giardini),,39.241998851114964,9.194091526074127,,https://www.ctmcagliari.it/fermate/fermata-GN0118,,,,1
+GQ0387,0387,Golfo di Quartu S.E. (Lido Mediterraneo),,39.225438488643964,9.200987005197187,,https://www.ctmcagliari.it/fermate/fermata-GQ0387,,,,0
+IM0087,0087,Is Mirrionis (Chiesa),,39.235042664625864,9.109872576317957,,https://www.ctmcagliari.it/fermate/fermata-IM0087,,,,0
+JE0559,0559,Jenner (Oncologico),,39.245581836671964,9.115203259052967,,https://www.ctmcagliari.it/fermate/fermata-JE0559,,,,0
+JE0870,0870,Jenner (fronte Casa Accoglienza),,39.243639073427964,9.116108321478557,,https://www.ctmcagliari.it/fermate/fermata-JE0870,,,,2
+LP0358,0358,Poetto (Ippodromo),,39.209729975928864,9.169040267090347,,https://www.ctmcagliari.it/fermate/fermata-LP0358,,,,0
+MA0256,0256,Marconi (fronte Istituto ITS Mo.So.s.),,39.235759691772864,9.140037541711007,,https://www.ctmcagliari.it/fermate/fermata-MA0256,,,,0
+MA0915,0915,Marconi (clinica),,39.241860990799064,9.175934772319337,,https://www.ctmcagliari.it/fermate/fermata-MA0915,,,,1
+MG0490,0490,I Maggio (fronte liceo),,39.247277492599964,9.159667577974757,,https://www.ctmcagliari.it/fermate/fermata-MG0490,,,,1
+MG0491,0491,I Maggio (Liceo),,39.247367151656964,9.159995900903837,,https://www.ctmcagliari.it/fermate/fermata-MG0491,,,,1
+MO2027,2027,Monaco (ang. via Dalla Chiesa),,39.235499710682364,9.208418386388317,,https://www.ctmcagliari.it/fermate/fermata-MO2027,,,,1
+MS0769,0769,Is Maglias (fronte Azuni),,39.231476119920764,9.104621711496327,,https://www.ctmcagliari.it/fermate/fermata-MS0769,,,,1
+PA2084,2084,Parigi (fronte civico 29),,39.236273338150164,9.136966684031767,,https://www.ctmcagliari.it/fermate/fermata-PA2084,,,,2
+PF0134,0134,Piero della Francesca (ang. via Peretti),,39.250729424049164,9.103108546366277,,https://www.ctmcagliari.it/fermate/fermata-PF0134,,,,1
+PI2080,2080,Luigi Pirandello (fronte civico 3),,39.250949120921864,9.118559814336897,,https://www.ctmcagliari.it/fermate/fermata-PI2080,,,,2
+PM1168,1168,Matteotti (fronte Stazione FS),,39.215447451641664,9.109129671122417,,https://www.ctmcagliari.it/fermate/fermata-PM1168,,,,2
+ST2073,2073,Stamira Fronte Ufficio Postale,,39.248858659592764,9.119572301106367,,https://www.ctmcagliari.it/fermate/fermata-ST2073,,,,2
+SU1024,1024,Sulis (altezza civico 71),,39.216797883283864,9.118042418918697,,https://www.ctmcagliari.it/fermate/fermata-SU1024,,,,2
+VD0856,0856,Vidal (ang. via Besta),,39.212830873229664,9.132615208005547,,https://www.ctmcagliari.it/fermate/fermata-VD0856,,,,1
+VR0513,0513,Verdi (fronte via Pascoli),,39.235240853839664,9.179915025627927,,https://www.ctmcagliari.it/fermate/fermata-VR0513,,,,2
+AB0110,0110,Abruzzi (fronte via Campeda),,39.240580816447564,9.100533490921497,,https://www.ctmcagliari.it/fermate/fermata-AB0110,,,,0
+BS0215,0215,San Bartolomeo (Parcheggi),,39.200641114554464,9.142238813919007,,https://www.ctmcagliari.it/fermate/fermata-BS0215,,,,0
+CB0654,0654,Cabras (campi sportivi),,39.251036555875564,9.144736001449617,,https://www.ctmcagliari.it/fermate/fermata-CB0654,,,,1
+CI1254,1254,Cimitero,,39.245258077380064,9.193031455643267,,https://www.ctmcagliari.it/fermate/fermata-CI1254,,,,1
+CM0603,0603,Carmine (ang. via Manno),,39.284530534398864,9.009681806885387,,https://www.ctmcagliari.it/fermate/fermata-CM0603,,,,1
+CQ1148,1148,Cinquini (fronte via da Paganello),,39.241286083709664,9.107908819845167,,https://www.ctmcagliari.it/fermate/fermata-CQ1148,,,,1
+CR0113,0113,Cornalias (ang. via Cinquini),,39.240227362333764,9.107834773632817,,https://www.ctmcagliari.it/fermate/fermata-CR0113,,,,1
+DP0294,0294,della Pineta (ang. via Firenze),,39.206705249012564,9.134908210341017,,https://www.ctmcagliari.it/fermate/fermata-DP0294,,,,1
+GN0564,0564,Giorgino (ex fabbrica),,39.211277457087964,9.088939015199887,,https://www.ctmcagliari.it/fermate/fermata-GN0564,,,,1
+NO0701,0701,4 Novembre (ang. via Amsicora),,39.239462266478464,9.191366500579027,,https://www.ctmcagliari.it/fermate/fermata-NO0701,,,,1
+NZ0962,0962,Nazionale (ang. via Ballero),,39.251221013865464,9.174514520522617,,https://www.ctmcagliari.it/fermate/fermata-NZ0962,,,,2
+PG0699,0699,Portogallo (ang. via S. Antonio),,39.242369220035664,9.201508983103097,,https://www.ctmcagliari.it/fermate/fermata-PG0699,,,,1
+PU0122,0122,Puglia (parcheggi),,39.242952836575764,9.098031269173737,,https://www.ctmcagliari.it/fermate/fermata-PU0122,,,,1
+SC0260,0260,Scano (chiesa),,39.216014203713164,9.130453208727927,,https://www.ctmcagliari.it/fermate/fermata-SC0260,,,,0
+SC0262,0262,Scano (ang. via Gazzano),,39.213301982663964,9.130368194507807,,https://www.ctmcagliari.it/fermate/fermata-SC0262,,,,2
+SD0617,0617,Nazionale (ang. via Veneto),,39.304909751639064,8.973763591965767,,https://www.ctmcagliari.it/fermate/fermata-SD0617,,,,1
+SV0902,0902,Schiavazzi (fronte piazza Demuro),,39.196482543518264,9.138478657223347,,https://www.ctmcagliari.it/fermate/fermata-SV0902,,,,1
+TS0507,0507,Trieste (fronte Poste),,39.253540656786564,9.162528942167177,,https://www.ctmcagliari.it/fermate/fermata-TS0507,,,,1
+TZ0200,0200,Tiziano (Mercato Civico),,39.222705058986264,9.121970565523607,,https://www.ctmcagliari.it/fermate/fermata-TZ0200,,,,1
+VE2067,2067,Corso Vittorio Emanuele II (altezza civico 441),,39.221372925719464,9.106674957693147,,https://www.ctmcagliari.it/fermate/fermata-VE2067,,,,1
+VS0247,0247,Vesalio (ang. via Turr),,39.239512869784864,9.132239226740327,,https://www.ctmcagliari.it/fermate/fermata-VS0247,,,,1
+SE0591,0591,Sulcitana Elmas (fronte via Carloforte),,39.271245195999564,9.041116335766027,,https://www.ctmcagliari.it/fermate/fermata-SE0591,,,,1
+VD0865,0865,Vidal (fronte via Besta),,39.214750894942064,9.132021173310427,,https://www.ctmcagliari.it/fermate/fermata-VD0865,,,,1
+BU0068,0068,Buoncammino (Anfiteatro Romano),,39.224379392287264,9.114790260652227,,https://www.ctmcagliari.it/fermate/fermata-BU0068,,,,1
+CB1252,1252,Cimabue (scuole),,39.245483001811964,9.190507556165327,,https://www.ctmcagliari.it/fermate/fermata-CB1252,,,,1
+CI0234,0234,Ciusa (ang. via San Carlo),,39.233112037089864,9.122659879244037,,https://www.ctmcagliari.it/fermate/fermata-CI0234,,,,1
+CM0605,0605,Carmine (ang. via Sardegna),,39.286115775859464,9.006804464138367,,https://www.ctmcagliari.it/fermate/fermata-CM0605,,,,1
+CU2100,2100,Cittadella Universitaria ,,39.268772290505464,9.122750590840067,,https://www.ctmcagliari.it/fermate/fermata-CU2100,,,,2
+IM0171,0171,Is Mirrionis (Magistero),,39.229266949658964,9.111082002457497,,https://www.ctmcagliari.it/fermate/fermata-IM0171,,,,1
+IS0669,0669,Istria (fronte Municipio),,39.253459896126264,9.165488195584587,,https://www.ctmcagliari.it/fermate/fermata-IS0669,,,,2
+ME0166,0166,Merello (ang. via Don Bosco),,39.223558765538064,9.109189452355297,,https://www.ctmcagliari.it/fermate/fermata-ME0166,,,,1
+PV0772,0772,T. Fiorelli (Istituto Biologia),,39.202805838713864,9.140528719934277,,https://www.ctmcagliari.it/fermate/fermata-PV0772,,,,1
+PZ0697,0697,Pitz' e Serra (ang. via Irlanda),,39.240574661851764,9.207425257882787,,https://www.ctmcagliari.it/fermate/fermata-PZ0697,,,,1
+SC0186,0186,Scano (fronte clinica),,39.217870612568964,9.130328129875587,,https://www.ctmcagliari.it/fermate/fermata-SC0186,,,,0
+TN0153,0153,Trento (ang. via Zara),,39.224597684345864,9.102981601421567,,https://www.ctmcagliari.it/fermate/fermata-TN0153,,,,1
+BE2136,2136,delle Begonie (Palestra),,39.259280326896864,9.151542364832937,,https://www.ctmcagliari.it/fermate/fermata-BE2136,,,,0
+CT0231,0231,Castiglione (campi sportivi),,39.231138518636164,9.131036265293927,,https://www.ctmcagliari.it/fermate/fermata-CT0231,,,,1
+AD0241,0241,Diaz (ang. via Siracusa),,39.205306210704364,9.133015115497617,,https://www.ctmcagliari.it/fermate/fermata-AD0241,,,,1
+BE0195,0195,San Benedetto (fronte Buon Pastore),,39.221849380322664,9.125860852725027,,https://www.ctmcagliari.it/fermate/fermata-BE0195,,,,1
+BO0277,0277,Bonaria (fronte Basilica),,39.207837008432264,9.125314345238477,,https://www.ctmcagliari.it/fermate/fermata-BO0277,,,,1
+BT0874,0874,Basilicata (Magistero),,39.229742245811964,9.113454278789637,,https://www.ctmcagliari.it/fermate/fermata-BT0874,,,,0
+CA611,611,Cagliari (ang. via Gorizia),,39.292168232815864,8.995924044471127,,https://www.ctmcagliari.it/fermate/fermata-CA611,,,,0
+CL0340,0340,Calamosca (Capolinea 511),,39.186882924258964,9.151672242176077,,https://www.ctmcagliari.it/fermate/fermata-CL0340,,,,2
+CP0139,0139,Carpaccio (fronte Circoscrizione),,39.251161622959464,9.098276299897587,,https://www.ctmcagliari.it/fermate/fermata-CP0139,,,,1
+DS0318,0318,Sole (fronte via del Sestante),,39.200113561501564,9.149754335387767,,https://www.ctmcagliari.it/fermate/fermata-DS0318,,,,0
+DT0884,0884,Tiepolo (fronte piazza Tiepolo),,39.254155458218364,9.095638288787587,,https://www.ctmcagliari.it/fermate/fermata-DT0884,,,,1
+DV0417,0417,L. da Vinci (Hotel Setar),,39.221154872420064,9.253531993904247,,https://www.ctmcagliari.it/fermate/fermata-DV0417,,,,1
+LS0350,0350,Lungosaline (ang. via Montecristo),,39.198876117316064,9.158773695971677,,https://www.ctmcagliari.it/fermate/fermata-LS0350,,,,2
+LV0072,0072,La Vega (ang. viale San Vincenzo),,39.224768581574664,9.117586565610317,,https://www.ctmcagliari.it/fermate/fermata-LV0072,,,,2
+MA0912,0912,Marconi (Le Vele),,39.243235790250064,9.166309025060967,,https://www.ctmcagliari.it/fermate/fermata-MA0912,,,,1
+NA0621,0621,Nazionale (ang. via Stazione),,39.309116183547564,8.967254153617967,,https://www.ctmcagliari.it/fermate/fermata-NA0621,,,,1
+PF0845,0845,Piero della Francesca (ang. via Aresu),,39.254442590596264,9.102370765020357,,https://www.ctmcagliari.it/fermate/fermata-PF0845,,,,2
+PM2108,2108,Matteotti (Fronte Stazione ARST - Capolinea PF),,39.215416376929164,9.109182792469107,,https://www.ctmcagliari.it/fermate/fermata-PM2108,,,,2
+SA0730,0730,Sulcitana Assemini (fronte via Mogoro),,39.275555660649864,9.030597609091047,,https://www.ctmcagliari.it/fermate/fermata-SA0730,,,,2
+SP0036,0036,S. Paolo (fronte case FS),,39.217261228347564,9.099517382647127,,https://www.ctmcagliari.it/fermate/fermata-SP0036,,,,1
+SP2056,2056,San Paolo Ex case FS (direzione San Simone),,39.217387699130164,9.099642483978477,,https://www.ctmcagliari.it/fermate/fermata-SP2056,,,,2
+AG0852,0852,Autonomia Regionale (settima fermata),,39.242537852795864,9.275388975780187,,https://www.ctmcagliari.it/fermate/fermata-AG0852,,,,2
+BE2047,2047,delle Begonie fronte Palestra,,39.259241451911564,9.151488313595257,,https://www.ctmcagliari.it/fermate/fermata-BE2047,,,,2
+DQ1159,1159,D'Aquino (fronte carabinieri),,39.247237369279764,9.117689268564177,,https://www.ctmcagliari.it/fermate/fermata-DQ1159,,,,2
+EU1164,1164,Europa (Centro Giovani),,39.291486223195464,9.007660570332017,,https://www.ctmcagliari.it/fermate/fermata-EU1164,,,,1
+FI0445,0445,Fiume (ang. via Umbria),,39.236434361832664,9.199550069290407,,https://www.ctmcagliari.it/fermate/fermata-FI0445,,,,1
+FI0942,0942,Fiume (ang. via Dalla Chiesa),,39.234078256210564,9.209658315169227,,https://www.ctmcagliari.it/fermate/fermata-FI0942,,,,1
+FI2020,2020,Fiume (ang. via Borsellino),,39.235447948817564,9.201996115229797,,https://www.ctmcagliari.it/fermate/fermata-FI2020,,,,1
+IS0668,0668,Istria (ang. via Gorizia),,39.251200965617964,9.163492005616437,,https://www.ctmcagliari.it/fermate/fermata-IS0668,,,,1
+IT0552,0552,Italia (Vetreria),,39.248416817270064,9.131260368189897,,https://www.ctmcagliari.it/fermate/fermata-IT0552,,,,0
+MR0402,0402,Margine Rosso (ang. via Melibodes),,39.230105803881264,9.223450315986277,,https://www.ctmcagliari.it/fermate/fermata-MR0402,,,,2
+PL1161,1161,Platone (Ierfop),,39.247824668082564,9.120543703994987,,https://www.ctmcagliari.it/fermate/fermata-PL1161,,,,1
+RE0821,0821,Redentore (ang. via Giulio Cesare),,39.255276613503064,9.140731573643037,,https://www.ctmcagliari.it/fermate/fermata-RE0821,,,,0
+SP1169,1169,S. Paolo (fronte via Mincio),,39.223699435472364,9.098603290784497,,https://www.ctmcagliari.it/fermate/fermata-SP1169,,,,2
+AB0894,0894,Abruzzi (chiesa),,39.238220604944764,9.099759552468487,,https://www.ctmcagliari.it/fermate/fermata-AB0894,,,,0
+AD0183,0183,Diaz (Hotel),,39.205004885564964,9.134190414425387,,https://www.ctmcagliari.it/fermate/fermata-AD0183,,,,1
+CM0604,0604,Carmine (pressi Hotel Grillo),,39.284245777987064,9.010030617614507,,https://www.ctmcagliari.it/fermate/fermata-CM0604,,,,1
+CS2022,2022,Crespellani (fronte oratorio),,39.255024404583764,9.096379438973927,,https://www.ctmcagliari.it/fermate/fermata-CS2022,,,,1
+CU0900,0900,Cugia (ang. via Scano),,39.215588803006464,9.129718634933227,,https://www.ctmcagliari.it/fermate/fermata-CU0900,,,,1
+GC0814,0814,Giulio Cesare (ang. via Clelia),,39.261841736034464,9.140195559258597,,https://www.ctmcagliari.it/fermate/fermata-GC0814,,,,1
+GC0826,0826,Giulio Cesare (fronte cimitero),,39.264951766343764,9.139148700291327,,https://www.ctmcagliari.it/fermate/fermata-GC0826,,,,1
+GV0455,0455,Vico (ang. via Salvemini),,39.236263818293164,9.191093472522017,,https://www.ctmcagliari.it/fermate/fermata-GV0455,,,,2
+HB2058,2058,Uscita Ospedale Brotzu (P.zzale A. Ricchi),,39.250433843852064,9.108902490430617,,https://www.ctmcagliari.it/fermate/fermata-HB2058,,,,1
+JE0869,0869,Jenner (fronte via Koch),,39.241159335864664,9.117820333486967,,https://www.ctmcagliari.it/fermate/fermata-JE0869,,,,1
+LE0825,0825,Legnano (ang via Santa Maria Chiara),,39.241892652666664,9.123215826504847,,https://www.ctmcagliari.it/fermate/fermata-LE0825,,,,2
+MA0253,0253,Marconi (fronte quartiere Europeo),,39.233766693648064,9.137574646182087,,https://www.ctmcagliari.it/fermate/fermata-MA0253,,,,2
+MR0403,0403,Margine Rosso (fronte via Molaria),,39.228865590161664,9.226406594579407,,https://www.ctmcagliari.it/fermate/fermata-MR0403,,,,2
+MR0410,0410,Margine Rosso (ang. via Marco Polo),,39.226673407791864,9.238942045990047,,https://www.ctmcagliari.it/fermate/fermata-MR0410,,,,2
+MS0173,0173,Is Maglias (Ingegneria),,39.228205705106064,9.108907980219627,,https://www.ctmcagliari.it/fermate/fermata-MS0173,,,,1
+PJ0982,0982,Piemonte (ang. Iolanda),,39.239515912174464,9.197022898612667,,https://www.ctmcagliari.it/fermate/fermata-PJ0982,,,,2
+PL0999,0999,Perda Longa (scuole),,39.234137200813064,9.191109428833877,,https://www.ctmcagliari.it/fermate/fermata-PL0999,,,,2
+RL0749,0749,Regina Elena (Bastione),,39.216145768402464,9.116868459123567,,https://www.ctmcagliari.it/fermate/fermata-RL0749,,,,2
+SV0646,0646,Schiavazzi (fronte piazza Pigafetta),,39.193395238003964,9.139335676181597,,https://www.ctmcagliari.it/fermate/fermata-SV0646,,,,1
+TS2114,2114,Trieste (altezza civico 65),,39.219416405989564,9.104913562853497,,https://www.ctmcagliari.it/fermate/fermata-TS2114,,,,0
+AD0283,0283,Diaz (Fiera),,39.205272239294464,9.131187258463447,,https://www.ctmcagliari.it/fermate/fermata-AD0283,,,,1
+AG0771,0771,Autonomia Regionale (lato civico n. 30),,39.224179149099264,9.283654640483917,,https://www.ctmcagliari.it/fermate/fermata-AG0771,,,,2
+BD0935,0935,San Benedetto (scuole),,39.235804425497864,9.199063793256997,,https://www.ctmcagliari.it/fermate/fermata-BD0935,,,,1
+BR0466,0466,Brigata Sassari (CTM Point),,39.242479390868564,9.181064815262007,,https://www.ctmcagliari.it/fermate/fermata-BR0466,,,,1
+CD0089,0089,Cadello (fronte parco),,39.235819514653564,9.113255116422697,,https://www.ctmcagliari.it/fermate/fermata-CD0089,,,,1
+DM1128,1128,dei Fiori (fronte via Ciclamini),,39.260051972518764,9.121087692954107,,https://www.ctmcagliari.it/fermate/fermata-DM1128,,,,2
+GC0861,0861,Cagna (ang. via Is Guadazzonis),,39.210275755064264,9.140716633517227,,https://www.ctmcagliari.it/fermate/fermata-GC0861,,,,1
+GT0767,0767,Giotto (ang. via Cornalias),,39.249432619235664,9.102230573041017,,https://www.ctmcagliari.it/fermate/fermata-GT0767,,,,1
+LS0354,0354,Lungo saline (Contro Strada Parcheggi lato Chiesa),,39.204773733885564,9.162121873607087,,https://www.ctmcagliari.it/fermate/fermata-LS0354,,,,1
+MZ0670,0670,Mazzini (poliambulatorio),,39.253932760007564,9.171855522755997,,https://www.ctmcagliari.it/fermate/fermata-MZ0670,,,,2
+RM0739,0739,Roma (fronte Molo Sanità),,39.214285518161864,9.111261983550517,,https://www.ctmcagliari.it/fermate/fermata-RM0739,,,,1
+RN0076,0076,Romagna (parcheggi),,39.227867482123364,9.118458494441507,,https://www.ctmcagliari.it/fermate/fermata-RN0076,,,,1
+RS0510,0510,Rossini (ang. via Cilea),,39.236637003782264,9.180272002530857,,https://www.ctmcagliari.it/fermate/fermata-RS0510,,,,2
+AU0355,0355,Ausonia (ang. Lungosaline),,39.204503322238664,9.162179879817157,,https://www.ctmcagliari.it/fermate/fermata-AU0355,,,,1
+CM0597,0597,Carmine (ang. via De Sanctis),,39.279608132036664,9.021364130547917,,https://www.ctmcagliari.it/fermate/fermata-CM0597,,,,1
+DV0643,0643,L. da Vinci (ang. via Buonarroti),,39.260608975897064,9.175477773235617,,https://www.ctmcagliari.it/fermate/fermata-DV0643,,,,1
+DV0729,0729,L. da Vinci  (Loc. Sa Tiacca),,39.220515166545764,9.263646284367627,,https://www.ctmcagliari.it/fermate/fermata-DV0729,,,,1
+GT0742,0742,San Gottardo (Stazione Metro Capolinea M),,39.263807513888364,9.141524988562067,,https://www.ctmcagliari.it/fermate/fermata-GT0742,,,,1
+MA0218,0218,Marconi (altezza civico 71),,39.230393646078264,9.133744815502947,,https://www.ctmcagliari.it/fermate/fermata-MA0218,,,,1
+MD0966,0966,Mandas (ang. via Marrubiu),,39.256559433492564,9.183674124548977,,https://www.ctmcagliari.it/fermate/fermata-MD0966,,,,2
+NZ0957,0957,Nazionale (fronte municipio),,39.254244900321864,9.179967933495037,,https://www.ctmcagliari.it/fermate/fermata-NZ0957,,,,1
+PA0205,0205,Pascoli (ang. via Petrarca),,39.223799643172564,9.126433096598157,,https://www.ctmcagliari.it/fermate/fermata-PA0205,,,,0
+CO0525,0525,Colombo (fronte Polizia Municipale),,39.233258120099664,9.185856109387647,,https://www.ctmcagliari.it/fermate/fermata-CO0525,,,,0
+CS0886,0886,Crespellani (fronte via Tintoretto),,39.257440207568164,9.100679629693117,,https://www.ctmcagliari.it/fermate/fermata-CS0886,,,,1
+FA1114,1114,Fadda (ang. via Angioni),,39.243303427872864,9.192590457322027,,https://www.ctmcagliari.it/fermate/fermata-FA1114,,,,1
+GQ0398,0398,Golfo di Quartu S.E. (fronte Fortino),,39.228379552878064,9.211737682739927,,https://www.ctmcagliari.it/fermate/fermata-GQ0398,,,,0
+JE2079,2079,Jenner (Uscita Ospedale Brotzu),,39.248772293073564,9.110880278896057,,https://www.ctmcagliari.it/fermate/fermata-JE2079,,,,1
+MA0623,0623,Marconi (ang. via Tommaseo),,39.226552737836764,9.130309071175717,,https://www.ctmcagliari.it/fermate/fermata-MA0623,,,,1
+MI0284,0284,Milano (ang. via Messina),,39.207646906660964,9.130955324460627,,https://www.ctmcagliari.it/fermate/fermata-MI0284,,,,1
+PV0428,0428,Flumini (ang. via San Teodoro),,39.218435766048164,9.298119168751737,,https://www.ctmcagliari.it/fermate/fermata-PV0428,,,,2
+PV0435,0435,S.P. Villasimius (ang. via del Galeone),,39.208013625952764,9.312357219416367,,https://www.ctmcagliari.it/fermate/fermata-PV0435,,,,2
+PV0438,0438,S.P. Villasimius (ang. via dei Pioppi),,39.199369327315664,9.326502157843937,,https://www.ctmcagliari.it/fermate/fermata-PV0438,,,,2
+SD0616,0616,Cagliari (seconda fermata Dec -> Ass),,39.298319618311364,8.983849724691097,,https://www.ctmcagliari.it/fermate/fermata-SD0616,,,,2
+SF1186,1186,San Fulgezio (ang. via Argentina),,39.261874496785664,9.131141129868097,,https://www.ctmcagliari.it/fermate/fermata-SF1186,,,,1
+VS0685,0685,Vesalio (fermata Metrò),,39.241499774053664,9.136163344234397,,https://www.ctmcagliari.it/fermate/fermata-VS0685,,,,1
+BO0269,0269,Bonaria (RAI),,39.210247019243564,9.122267539986117,,https://www.ctmcagliari.it/fermate/fermata-BO0269,,,,1
+CI0233,0233,Ciusa (fronte via San Carlo),,39.233350855693664,9.122633865803707,,https://www.ctmcagliari.it/fermate/fermata-CI0233,,,,1
+CO0523,0523,Colombo (ang. via Salieri),,39.231293975284364,9.188504204441977,,https://www.ctmcagliari.it/fermate/fermata-CO0523,,,,1
+CO1999,1999,Colombo,,39.230607573426364,9.189153874213347,,https://www.ctmcagliari.it/fermate/fermata-CO1999,,,,2
+EL0691,0691,Lussu (fronte Carabinieri),,39.254959147842864,9.159803800908907,,https://www.ctmcagliari.it/fermate/fermata-EL0691,,,,1
+GP0763,0763,Peretti (ospedale Brotzu),,39.251099492671264,9.108748219120157,,https://www.ctmcagliari.it/fermate/fermata-GP0763,,,,1
+RM2119,2119,Roma (civico 181),,39.215836795243264,9.109124783170257,,https://www.ctmcagliari.it/fermate/fermata-RM2119,,,,0
+RO0498,0498,Gallus (ang. vico Gallus),,39.252666486518264,9.172014330485647,,https://www.ctmcagliari.it/fermate/fermata-RO0498,,,,1
+RS0812,0812,Risorgimento (fronte via Berchet ),,39.243530520934964,9.133330284690067,,https://www.ctmcagliari.it/fermate/fermata-RS0812,,,,2
+RV0556,0556,Riva Villasanta (ang. vico Villasanta),,39.243190101003864,9.127523889507617,,https://www.ctmcagliari.it/fermate/fermata-RV0556,,,,1
+SV0347,0347,Schiavazzi (piazza Silesu),,39.195904508390664,9.135779253743127,,https://www.ctmcagliari.it/fermate/fermata-SV0347,,,,1
+VS0366,0366,Vesalio (ang. via Giovine Italia),,39.240402608646664,9.134291219566647,,https://www.ctmcagliari.it/fermate/fermata-VS0366,,,,1
+SE0592,0592,Sulcitana Elmas (Discount),,39.271531856524764,9.040225871342937,,https://www.ctmcagliari.it/fermate/fermata-SE0592,,,,1
+TS0150,0150,Trieste (ang. via S. Paolo),,39.224594852937264,9.101070387108577,,https://www.ctmcagliari.it/fermate/fermata-TS0150,,,,0
+VR0517,0517,Verdi (ang. via Bellini),,39.236158887475264,9.180616945371517,,https://www.ctmcagliari.it/fermate/fermata-VR0517,,,,2
+CU2087,2087,Cittadella Universitaria - Lato Neuroscienze,,39.269088632835764,9.122558126157677,,https://www.ctmcagliari.it/fermate/fermata-CU2087,,,,2
+CU2095,2095,Cittadella Universitaria - Fronte Fisica,,39.270328240881564,9.121413097523737,,https://www.ctmcagliari.it/fermate/fermata-CU2095,,,,2
+EL0577,0577,Elmas (angolo via delle Miniere),,39.257960959823964,9.072995845782907,,https://www.ctmcagliari.it/fermate/fermata-EL0577,,,,2
+GA0496,0496,Gallus (Torre),,39.253592218314464,9.170580517999037,,https://www.ctmcagliari.it/fermate/fermata-GA0496,,,,1
+GQ0400,0400,Golfo di Quartu S.E. (ang. via Fiume),,39.229449770494564,9.217758764951737,,https://www.ctmcagliari.it/fermate/fermata-GQ0400,,,,0
+JE0131,0131,Jenner (fronte Oncologico),,39.245734951972264,9.115275209130307,,https://www.ctmcagliari.it/fermate/fermata-JE0131,,,,0
+MO0246,0246,Menotti (ang. via Morelli),,39.242429657943964,9.130700216953437,,https://www.ctmcagliari.it/fermate/fermata-MO0246,,,,2
+MS2037,2037,Is Maglias (dip Ing. Elettronica),,39.229932681722464,9.107431956364067,,https://www.ctmcagliari.it/fermate/fermata-MS2037,,,,1
+PI0075,0075,Piemonte (fronte Chiesa),,39.227522111848064,9.116921365460827,,https://www.ctmcagliari.it/fermate/fermata-PI0075,,,,1
+PZ2145,2145,Pitz'e Serra - Liceo Quartu Sant'Elena,,39.240539635080364,9.213848362279377,,https://www.ctmcagliari.it/fermate/fermata-PZ2145,,,,0
+RM0734,0734,Roma (Molo Dogana),,39.212783151593264,9.113840354343157,,https://www.ctmcagliari.it/fermate/fermata-RM0734,,,,1
+AD0279,0279,Diaz (ang. via Ancona),,39.206589392392464,9.125701861013937,,https://www.ctmcagliari.it/fermate/fermata-AD0279,,,,1
+AZ2046,2046,delle Azalee altezza civico 79,,39.261447761131864,9.149060332753917,,https://www.ctmcagliari.it/fermate/fermata-AZ2046,,,,1
+CG0905,0905,Cettigne (ang. via Costantinopoli),,39.226807465358264,9.136073393056337,,https://www.ctmcagliari.it/fermate/fermata-CG0905,,,,1
+CL0338,0338,Calamosca (Strada per il Faro),,39.189745894746764,9.150110109905387,,https://www.ctmcagliari.it/fermate/fermata-CL0338,,,,1
+CL0339,0339,Calamosca (fronte Strada Faro),,39.189918499619164,9.150055601558297,,https://www.ctmcagliari.it/fermate/fermata-CL0339,,,,1
+AZ0209,0209,dell'Abbazia (ang. via Conversi),,39.221281435800064,9.134159202493967,,https://www.ctmcagliari.it/fermate/fermata-AZ0209,,,,1
+BD0936,0936,San Benedetto (ang. via Dublino),,39.234843481659764,9.197254765890897,,https://www.ctmcagliari.it/fermate/fermata-BD0936,,,,1
+BD0937,0937,San Benedetto (ang. via Pindemonte),,39.233312163534164,9.194155579887037,,https://www.ctmcagliari.it/fermate/fermata-BD0937,,,,1
+BM1152,1152,Barracca Manna (fronte via Saba),,39.255730592541564,9.117300342701017,,https://www.ctmcagliari.it/fermate/fermata-BM1152,,,,1
+BO0268,0268,Bonaria (Banca CIS),,39.210092911378264,9.122440378926487,,https://www.ctmcagliari.it/fermate/fermata-BO0268,,,,1
+CU2091,2091,Cittadella Universitaria - Lato Segreteria,,39.269268566250864,9.125849885595747,,https://www.ctmcagliari.it/fermate/fermata-CU2091,,,,2
+DO0004,0004,Donoratico (ang. via Capula),,39.231324169084264,9.121884824185887,,https://www.ctmcagliari.it/fermate/fermata-DO0004,,,,1
+FA0314,0314,Favonio (fronte chiesa),,39.202359202715264,9.144691060282367,,https://www.ctmcagliari.it/fermate/fermata-FA0314,,,,1
+GQ0385,0385,Golfo di Quartu S.E. (La Bussola),,39.222870074689264,9.193163447967637,,https://www.ctmcagliari.it/fermate/fermata-GQ0385,,,,0
+LP0329,0329,Poetto (ang. via Grecale),,39.199573423583864,9.145788809077967,,https://www.ctmcagliari.it/fermate/fermata-LP0329,,,,2
+LP0333,0333,Poetto (fronte Monfenera),,39.197184538390464,9.150092285286847,,https://www.ctmcagliari.it/fermate/fermata-LP0333,,,,0
+LY0033,0033,La Plaia (fronte parcheggio),,39.214914195366564,9.104282559366517,,https://www.ctmcagliari.it/fermate/fermata-LY0033,,,,1
+MT0648,0648,M.C.T.C.,,39.260813803854464,9.092004503457167,,https://www.ctmcagliari.it/fermate/fermata-MT0648,,,,2
+NP0706,0706,Paganini (ang. via Fogazzaro),,39.234382692847764,9.181280814481857,,https://www.ctmcagliari.it/fermate/fermata-NP0706,,,,1
+PL0988,0988,Perda Longa (fronte scuole),,39.234231459621464,9.191326578681077,,https://www.ctmcagliari.it/fermate/fermata-PL0988,,,,2
+PV0433,0433,S.P. Villasimius (ang. via del Transatlantico),,39.209788410622964,9.309122626350677,,https://www.ctmcagliari.it/fermate/fermata-PV0433,,,,2
+RL0063,0063,Regina Elena (Unione Sarda),,39.219825777776364,9.117850553895397,,https://www.ctmcagliari.it/fermate/fermata-RL0063,,,,2
+RM0026,0026,Roma (fronte Molo Dogana),,39.212976463488364,9.113574226109437,,https://www.ctmcagliari.it/fermate/fermata-RM0026,,,,1
+SE0590,0590,Sulcitana Elmas (fronte via Talamone),,39.269946612807264,9.043879366041627,,https://www.ctmcagliari.it/fermate/fermata-SE0590,,,,1
+SN0683,0683,San Nicolò (scuole),,39.258285071480664,9.174866718958457,,https://www.ctmcagliari.it/fermate/fermata-SN0683,,,,2
+SO0020,0020,Sonnino (ang. via Abba),,39.217204804337964,9.121043729109247,,https://www.ctmcagliari.it/fermate/fermata-SO0020,,,,2
+SV0638,0638,Schiavazzi (parco giochi),,39.196376454533164,9.136748592372197,,https://www.ctmcagliari.it/fermate/fermata-SV0638,,,,1
+TS0531,0531,Trieste (ang. via Galilei),,39.252768319049264,9.150535241780237,,https://www.ctmcagliari.it/fermate/fermata-TS0531,,,,1
+CM0606,0606,Carmine (prima fermata),,39.286142821995764,9.006571468670387,,https://www.ctmcagliari.it/fermate/fermata-CM0606,,,,1
+CR0115,0115,Cornalias (ang. via Sulcis),,39.242702911016764,9.105613621039357,,https://www.ctmcagliari.it/fermate/fermata-CR0115,,,,1
+CR0803,0803,Cornalias (acquedotto),,39.247313479309264,9.103995537889687,,https://www.ctmcagliari.it/fermate/fermata-CR0803,,,,1
+CR0890,0890,Cornalias (ang. via Brianza),,39.240218611210264,9.107553755170317,,https://www.ctmcagliari.it/fermate/fermata-CR0890,,,,0
+DD0806,0806,Deliperi (fronte scuola),,39.251826853706064,9.100131588366717,,https://www.ctmcagliari.it/fermate/fermata-DD0806,,,,0
+FE0224,0224,28 Febbraio (Assessorato RAS),,39.229372848789564,9.126522751426187,,https://www.ctmcagliari.it/fermate/fermata-FE0224,,,,1
+ME0164,0164,Merello (ang. via Oslavia),,39.223376123837764,9.108569970656037,,https://www.ctmcagliari.it/fermate/fermata-ME0164,,,,1
+ME0168,0168,Merello (fronte Ingegneria),,39.227695312533764,9.110259100942027,,https://www.ctmcagliari.it/fermate/fermata-ME0168,,,,2
+MP0094,0094,Piovella (fronte via Sella),,39.238561598022764,9.112785652206267,,https://www.ctmcagliari.it/fermate/fermata-MP0094,,,,2
+SV0901,0901,Parcheggi Stadio (capolinea 6),,39.199722525807564,9.138426498719387,,https://www.ctmcagliari.it/fermate/fermata-SV0901,,,,2
+AH1145,1145,Archimede (fronte via Avogadro),,39.235702747254964,9.130891226674797,,https://www.ctmcagliari.it/fermate/fermata-AH1145,,,,2
+AZ0212,0212,dell'Abbazia (ang. via Stoccolma),,39.223392872000164,9.135579496706607,,https://www.ctmcagliari.it/fermate/fermata-AZ0212,,,,1
+AZ2045,2045,delle Azalee altezza civico 9,,39.259819073112064,9.147258089705767,,https://www.ctmcagliari.it/fermate/fermata-AZ2045,,,,1
+AZ2138,2138,delle Azalee (fronte civico 9),,39.259878653898864,9.147200745844977,,https://www.ctmcagliari.it/fermate/fermata-AZ2138,,,,0
+BN0345,0345,Berna (fronte Scuola),,39.226191597077764,9.134882520581857,,https://www.ctmcagliari.it/fermate/fermata-BN0345,,,,1
+EC0714,0714,S'Ecca S'Arrideli (prima fermata),,39.242491713495764,9.243515473938727,,https://www.ctmcagliari.it/fermate/fermata-EC0714,,,,2
+EL0128,0128,Elmas (quarta fermata),,39.250054721827664,9.084984544356867,,https://www.ctmcagliari.it/fermate/fermata-EL0128,,,,1
+FA1109,1109,Fadda (fronte Questura),,39.243384417215964,9.192656581758517,,https://www.ctmcagliari.it/fermate/fermata-FA1109,,,,1
+FL0558,0558,Autonomia Regionale (fronte via Mulinu Coccu),,39.219061472196364,9.285896892585037,,https://www.ctmcagliari.it/fermate/fermata-FL0558,,,,1
+GQ0392,0392,Golfo di Quartu S.E. (fronte Torre),,39.227335281025664,9.206155296717467,,https://www.ctmcagliari.it/fermate/fermata-GQ0392,,,,0
+LA2069,2069,Lanusei (fronte civico 51),,39.214084726257464,9.118869353585437,,https://www.ctmcagliari.it/fermate/fermata-LA2069,,,,1
+MG0488,0488,I Maggio (Salesiani),,39.246310583131864,9.158371781669377,,https://www.ctmcagliari.it/fermate/fermata-MG0488,,,,1
+MS0177,0177,Is Maglias (fronte via Montegrappa),,39.233117861058664,9.102665643327087,,https://www.ctmcagliari.it/fermate/fermata-MS0177,,,,1
+PV0436,0436,S.P. Villasimius (Camping),,39.205548885179964,9.319092160750837,,https://www.ctmcagliari.it/fermate/fermata-PV0436,,,,2
+RV0244,0244,Riva Villasanta (ang. via Randaccio),,39.240745310402464,9.125971744757317,,https://www.ctmcagliari.it/fermate/fermata-RV0244,,,,1
+TO0876,0876,Toscana (ang. via La Vega),,39.226697841000464,9.116686466463117,,https://www.ctmcagliari.it/fermate/fermata-TO0876,,,,1
+AF1166,1166,Africa (fronte via Iglesias),,39.297546299880064,8.998911078555917,,https://www.ctmcagliari.it/fermate/fermata-AF1166,,,,1
+AF1177,1177,Africa (ang. via Cipro),,39.297757949112664,8.994888613770147,,https://www.ctmcagliari.it/fermate/fermata-AF1177,,,,1
+BL1122,1122,Balilla (ang. via Marmilla),,39.248170480058764,9.121611586785877,,https://www.ctmcagliari.it/fermate/fermata-BL1122,,,,2
+BS0341,0341,Borgo Sant'Elia (fronte via Livingstone),,39.193181212257364,9.141217750076057,,https://www.ctmcagliari.it/fermate/fermata-BS0341,,,,1
+CI0235,0235,Ciusa (ang. via Biasi),,39.234719270214764,9.123820652681257,,https://www.ctmcagliari.it/fermate/fermata-CI0235,,,,1
+DV0940,0940,L. da Vinci (ang. via Rio Solanas),,39.219815263748464,9.279764160913647,,https://www.ctmcagliari.it/fermate/fermata-DV0940,,,,1
+FI0449,0449,Fiume (fronte parco),,39.233706850940564,9.210741660531097,,https://www.ctmcagliari.it/fermate/fermata-FI0449,,,,1
+GH0833,0833,Gherardo delle Notti (ang. via De Martis),,39.252991244488964,9.097805486244317,,https://www.ctmcagliari.it/fermate/fermata-GH0833,,,,1
+LP0328,0328,Poetto (fronte via Grecale),,39.199370743628264,9.145734109420477,,https://www.ctmcagliari.it/fermate/fermata-LP0328,,,,1
+MR0408,0408,Margine Rosso (ang. via Antas),,39.227025134462164,9.234360024347867,,https://www.ctmcagliari.it/fermate/fermata-MR0408,,,,1
+PF0887,0887,Piero della Francesca (fronte via Montebianco),,39.256677650848964,9.101979577819817,,https://www.ctmcagliari.it/fermate/fermata-PF0887,,,,2
+RE0838,0838,Repubblica (direz. Cagliari),,39.307506650056864,8.963576952264687,,https://www.ctmcagliari.it/fermate/fermata-RE0838,,,,2
+RS1118,1118,Risorgimento (ang. via Carbonari),,39.242819822064464,9.136214416650407,,https://www.ctmcagliari.it/fermate/fermata-RS1118,,,,1
+SC0261,0261,Scano (ang. via Marini),,39.213459975052364,9.130100260638417,,https://www.ctmcagliari.it/fermate/fermata-SC0261,,,,1
+SE0584,0584,Sulcitana Elmas (ang. via Sestu),,39.266531261520964,9.052815879060067,,https://www.ctmcagliari.it/fermate/fermata-SE0584,,,,1
+SM0142,0142,S. Michele (altezza civico n. 60),,39.236077172232664,9.098370402973567,,https://www.ctmcagliari.it/fermate/fermata-SM0142,,,,2
+SR1021,1021,San Rocco,,39.222692030601864,9.121503518714847,,https://www.ctmcagliari.it/fermate/fermata-SR1021,,,,1
+ST0627,0627,Stazione (capolinea 9),,39.305067535496564,8.965790183054507,,https://www.ctmcagliari.it/fermate/fermata-ST0627,,,,2
+UT2111,2111,Umberto Ticca (fronte civico 8) ,,39.258333351531864,9.090136784568857,,https://www.ctmcagliari.it/fermate/fermata-UT2111,,,,0
+AG1130,1130,Argiolas (ang. via Biancamano),,39.252371455008664,9.128271038891467,,https://www.ctmcagliari.it/fermate/fermata-AG1130,,,,1
+AU2005,2005,Italia (ang. via Dalla Chiesa),,39.236511185674964,9.209677514535637,,https://www.ctmcagliari.it/fermate/fermata-AU2005,,,,2
+BS0325,0325,San Bartolomeo (caserma carabinieri),,39.197260777776464,9.144703102719697,,https://www.ctmcagliari.it/fermate/fermata-BS0325,,,,0
+CU0918,0918,Cugia (Dettori),,39.215850438826664,9.127802015856157,,https://www.ctmcagliari.it/fermate/fermata-CU0918,,,,0
+DO0005,0005,Donoratico (ang. via Ciusa),,39.231333589735064,9.121492722794497,,https://www.ctmcagliari.it/fermate/fermata-DO0005,,,,1
+DP0295,0295,della Pineta (ang. via Venezia),,39.206659862056664,9.135194426839047,,https://www.ctmcagliari.it/fermate/fermata-DP0295,,,,1
+DV0415,0415,L. da Vinci (Hotel Califfo),,39.223202363550864,9.248423484094637,,https://www.ctmcagliari.it/fermate/fermata-DV0415,,,,2
+DM0500,0500,Don Minzoni (ang. via Nazionale),,39.250703265362564,9.174259715563477,,https://www.ctmcagliari.it/fermate/fermata-DM0500,,,,1
+DO0226,0226,Donoratico (parco),,39.230263042587664,9.124095952357237,,https://www.ctmcagliari.it/fermate/fermata-DO0226,,,,1
+EC0719,0719,S'Ecca S'Arrideli (prima fermata fronte via Van Dick),,39.243357686362564,9.267729756475497,,https://www.ctmcagliari.it/fermate/fermata-EC0719,,,,2
+FA0320,0320,Favonio (fronte via Garbino),,39.200419003525264,9.146949056827077,,https://www.ctmcagliari.it/fermate/fermata-FA0320,,,,2
+GN0569,0569,Giorgino (fronte ex fabbrica),,39.211088325715264,9.088807737552677,,https://www.ctmcagliari.it/fermate/fermata-GN0569,,,,2
+GT0882,0882,Giotto (ang. via Carpaccio),,39.250365748076064,9.096367266071527,,https://www.ctmcagliari.it/fermate/fermata-GT0882,,,,1
+GV0456,0456,Vico (scuole),,39.235147093176864,9.187933357775647,,https://www.ctmcagliari.it/fermate/fermata-GV0456,,,,1
+PL1157,1157,Anassagora (fronte centro commerciale),,39.248443011698664,9.119483621657467,,https://www.ctmcagliari.it/fermate/fermata-PL1157,,,,2
+PR0660,0660,Praga (ang. via Atene),,39.252069594511164,9.157629592711577,,https://www.ctmcagliari.it/fermate/fermata-PR0660,,,,1
+DA0197,0197,Dante (ang. via Farina),,39.218390250594664,9.124840694768797,,https://www.ctmcagliari.it/fermate/fermata-DA0197,,,,1
+DP0288,0288,della Pineta (ang. via Milano),,39.207711210635464,9.133840202418277,,https://www.ctmcagliari.it/fermate/fermata-DP0288,,,,1
+EL0581,0581,Elmas (Istituto Agrario),,39.262859963750764,9.062590251230317,,https://www.ctmcagliari.it/fermate/fermata-EL0581,,,,2
+EU1179,1179,Europa (scuole),,39.290765371521564,9.007341237572207,,https://www.ctmcagliari.it/fermate/fermata-EU1179,,,,1
+LO0653,0653,San Lorenzo (ang. via Tonara),,39.259169920663964,9.136461577558147,,https://www.ctmcagliari.it/fermate/fermata-LO0653,,,,1
+SG1022,1022,San Giacomo (altezza civico 130),,39.219450249507464,9.119393550142797,,https://www.ctmcagliari.it/fermate/fermata-SG1022,,,,2
+SO0811,0811,Sonnino (Archivio di Stato),,39.214011647951964,9.119835736752957,,https://www.ctmcagliari.it/fermate/fermata-SO0811,,,,1
+AM2118,2118,Ampere (fronte civ. 1),,39.247254175692864,9.132732703105857,,https://www.ctmcagliari.it/fermate/fermata-AM2118,,,,0
+BU2025,2025,Buoncammino (fronte quarto chiosco),,39.226778846407864,9.112196092805427,,https://www.ctmcagliari.it/fermate/fermata-BU2025,,,,2
+CS0885,0885,Crespellani (polizia municipale),,39.256400096332464,9.099920412852477,,https://www.ctmcagliari.it/fermate/fermata-CS0885,,,,1
+GI0640,0640,Flavio Gioia (fronte scuola),,39.237594342837564,9.131522269304527,,https://www.ctmcagliari.it/fermate/fermata-GI0640,,,,1
+GP0761,0761,Peretti (fronte uffici INPS),,39.249805138421164,9.113509052074617,,https://www.ctmcagliari.it/fermate/fermata-GP0761,,,,1
+LI0081,0081,Liguria (ang. via Istria),,39.230699521156964,9.115887489080157,,https://www.ctmcagliari.it/fermate/fermata-LI0081,,,,1
+MA0254,0254,Marconi (lato via Vienna),,39.233397069645364,9.136888292172227,,https://www.ctmcagliari.it/fermate/fermata-MA0254,,,,2
+PZ0704,0704,Pitz' e Serra (ang. via Cecoslovacchia),,39.240399708423264,9.201864019905847,,https://www.ctmcagliari.it/fermate/fermata-PZ0704,,,,1
+RM0655,0655,Riu Mortu (ang. via Zuddas),,39.253368221181864,9.146473859425117,,https://www.ctmcagliari.it/fermate/fermata-RM0655,,,,2
+UV0830,0830,Policlinico Universitario,,39.272299946561964,9.126270562474207,,https://www.ctmcagliari.it/fermate/fermata-UV0830,,,,1
+SG0818,0818,San Gavino (ang. via Crasso),,39.262179475798364,9.136547463865917,,https://www.ctmcagliari.it/fermate/fermata-SG0818,,,,1
+SS0751,0751,S.S. 554 (ang. via Anastasia),,39.235958612390364,9.216194704994787,,https://www.ctmcagliari.it/fermate/fermata-SS0751,,,,2
+ST0213,0213,Stoccolma (ang. via Budapest),,39.225128954504864,9.134315329764527,,https://www.ctmcagliari.it/fermate/fermata-ST0213,,,,1
+UT2112,2112,Umberto Ticca (lato Hotel),,39.258475359629664,9.093681701479217,,https://www.ctmcagliari.it/fermate/fermata-UT2112,,,,0
+AR0974,0974,S'Arrulloni (fronte campi sportivi),,39.231074051194164,9.179410876266387,,https://www.ctmcagliari.it/fermate/fermata-AR0974,,,,1
+BI1131,1131,Biasi (fronte ANAS),,39.232927489286764,9.126702934998067,,https://www.ctmcagliari.it/fermate/fermata-BI1131,,,,1
+BM1190,1190,Bembo (fronte chiesa),,39.232986040463464,9.130797112207337,,https://www.ctmcagliari.it/fermate/fermata-BM1190,,,,1
+CH0955,0955,Chiaramonti (capolinea 18),,39.257062400258764,9.184714974958747,,https://www.ctmcagliari.it/fermate/fermata-CH0955,,,,1
+CI0006,0006,Ciusa (Uffici Città Metropolitana),,39.230113892256264,9.120247631464757,,https://www.ctmcagliari.it/fermate/fermata-CI0006,,,,1
+DG2116,2116,Duca di Genova (fronte civ. 52),,39.250679630421664,9.131230073325217,,https://www.ctmcagliari.it/fermate/fermata-DG2116,,,,0
+GI0251,0251,Flavio Gioia (fronte portici),,39.234119581782164,9.132428244443817,,https://www.ctmcagliari.it/fermate/fermata-GI0251,,,,1
+GN1108,1108,Angioni (centro commerciale),,39.242713139587064,9.195337781836007,,https://www.ctmcagliari.it/fermate/fermata-GN1108,,,,1
+GQ0388,0388,Golfo di Quartu S.E. (fronte Bussola),,39.222871550532264,9.192271408880597,,https://www.ctmcagliari.it/fermate/fermata-GQ0388,,,,0
+LP0379,0379,Saline (AIAS),,39.216266993179864,9.177767736492687,,https://www.ctmcagliari.it/fermate/fermata-LP0379,,,,0
+MA0478,0478,Marconi (ang. via Torricelli),,39.242353257299864,9.172137616165977,,https://www.ctmcagliari.it/fermate/fermata-MA0478,,,,2
+MR0407,0407,Margine Rosso (quarta fermata),,39.227141749298464,9.233379824148217,,https://www.ctmcagliari.it/fermate/fermata-MR0407,,,,1
+PG0851,0851,Portogallo (ang. via Pitz'e Serra),,39.240885130317864,9.202538241627677,,https://www.ctmcagliari.it/fermate/fermata-PG0851,,,,2
+PL0198,0198,Paoli (ang. via Tola),,39.220099337362264,9.123432946716367,,https://www.ctmcagliari.it/fermate/fermata-PL0198,,,,1
+PV0687,0687,Vesalio (ang. via Italia),,39.250827505613764,9.134978234146137,,https://www.ctmcagliari.it/fermate/fermata-PV0687,,,,0
+PZ0705,0705,Pitz' e Serra (ang. via Danimarca),,39.240285336574064,9.207971571861317,,https://www.ctmcagliari.it/fermate/fermata-PZ0705,,,,1
+PZ0753,0753,Pitz' e Serra (N.S. del Buoncammino),,39.239807348173364,9.225152266898907,,https://www.ctmcagliari.it/fermate/fermata-PZ0753,,,,2
+SE0469,0469,Sant'Elena (chiesa),,39.242435335797964,9.183305939959397,,https://www.ctmcagliari.it/fermate/fermata-SE0469,,,,2
+SG2110,2110,San Giorgio (lato parcheggio),,39.274081439474164,9.055534245421167,,https://www.ctmcagliari.it/fermate/fermata-SG2110,,,,0
+AV0148,0148,S. Avendrace (ang. via Coghinas),,39.227380289291964,9.099868377995967,,https://www.ctmcagliari.it/fermate/fermata-AV0148,,,,1
+AG0721,0721,Autonomia Regionale (ang. via delle Camelie),,39.235872547461764,9.278000417731867,,https://www.ctmcagliari.it/fermate/fermata-AG0721,,,,2
+AG1155,1155,Argiolas (ang. via Principe di Napoli),,39.249659154856964,9.128565995725557,,https://www.ctmcagliari.it/fermate/fermata-AG1155,,,,2
+BM1153,1153,Barracca Manna (ang. via Ungaretti),,39.254427336991764,9.118458637216337,,https://www.ctmcagliari.it/fermate/fermata-BM1153,,,,1
+BO0276,0276,Bonaria (Basilica),,39.208045095841864,9.125309931480067,,https://www.ctmcagliari.it/fermate/fermata-BO0276,,,,1
+CD0084,0084,Cadello (ang. via dei Falletti),,39.234416244783964,9.111591254874787,,https://www.ctmcagliari.it/fermate/fermata-CD0084,,,,1
+CD0566,0566,Cadello (ang. via Monsignor Botto),,39.238956264735164,9.117708384722677,,https://www.ctmcagliari.it/fermate/fermata-CD0566,,,,1
+CM0878,0878,Cao di San Marco (Cittadella della Musica),,39.226228926270464,9.121429607723627,,https://www.ctmcagliari.it/fermate/fermata-CM0878,,,,1
+CQ1140,1140,Cinquini (parco San Michele),,39.242070201694464,9.110834532385837,,https://www.ctmcagliari.it/fermate/fermata-CQ1140,,,,2
+CR0133,0133,Cornalias (ang. via Giotto),,39.248787373977964,9.103319743959807,,https://www.ctmcagliari.it/fermate/fermata-CR0133,,,,1
+DP0293,0293,della Pineta (ang. via Dexart),,39.211160764422464,9.131348065149907,,https://www.ctmcagliari.it/fermate/fermata-DP0293,,,,0
+DP0989,0989,De Petris (fronte campo Rosas),,39.234187789828164,9.187706291925617,,https://www.ctmcagliari.it/fermate/fermata-DP0989,,,,1
+FI1120,1120,Filzi (ang. via Antonietti),,39.244942199992464,9.123844780638537,,https://www.ctmcagliari.it/fermate/fermata-FI1120,,,,2
+MA0465,0465,Marconi (Credito Italiano),,39.241662835100064,9.178836729137867,,https://www.ctmcagliari.it/fermate/fermata-MA0465,,,,1
+ME0156,0156,De Magistris (Teatro Massimo),,39.222968841087164,9.105613719808967,,https://www.ctmcagliari.it/fermate/fermata-ME0156,,,,1
+RM2040,2040,Rio Sa Murta (ang. via Tevere),,39.294113026861164,9.005419431196577,,https://www.ctmcagliari.it/fermate/fermata-RM2040,,,,1
+SE0022,0022,XX Settembre ( ex Corte dei Conti),,39.212513352583264,9.117836521604857,,https://www.ctmcagliari.it/fermate/fermata-SE0022,,,,1
+SI0316,0316,Scirocco (ang. via Ghibli),,39.201336824038964,9.147980269964407,,https://www.ctmcagliari.it/fermate/fermata-SI0316,,,,1
+AV0145,0145,S. Avendrace (ang. via Montello),,39.232500300454864,9.097787527872777,,https://www.ctmcagliari.it/fermate/fermata-AV0145,,,,1
+BU2001,2001,Bulgaria (fronte via Italia),,39.236865179234764,9.208247539889077,,https://www.ctmcagliari.it/fermate/fermata-BU2001,,,,1
+CL0216,0216,Calamattia (ang. via Santa Maria Chiara),,39.239962346850664,9.120782639465767,,https://www.ctmcagliari.it/fermate/fermata-CL0216,,,,1
+CR0804,0804,Cornalias (ang. via Perugino),,39.248917839508664,9.103537593491737,,https://www.ctmcagliari.it/fermate/fermata-CR0804,,,,1
+DD0766,0766,Deliperi (fronte via Beato Angelico),,39.250520057452064,9.100371661159627,,https://www.ctmcagliari.it/fermate/fermata-DD0766,,,,1
+EC0715,0715,S'Ecca s'Arrideli (terza fermata),,39.242793051815164,9.252231952719587,,https://www.ctmcagliari.it/fermate/fermata-EC0715,,,,2
+GV0457,0457,Vico (ang. via Iglesias),,39.235344818153764,9.188253246944107,,https://www.ctmcagliari.it/fermate/fermata-GV0457,,,,2
+IM0103,0103,Is Mirrionis (ang. via Montesanto),,39.237786130469964,9.102007618465857,,https://www.ctmcagliari.it/fermate/fermata-IM0103,,,,1
+LI0079,0079,Liguria (fronte Pacinotti),,39.229422971622164,9.117379272860287,,https://www.ctmcagliari.it/fermate/fermata-LI0079,,,,1
+MA2082,2082,Don Matzeu (lato campo bascket),,39.235825280306864,9.133854985928387,,https://www.ctmcagliari.it/fermate/fermata-MA2082,,,,1
+NS0158,0158,Sauro (uffici comunali),,39.222299547293564,9.103344754199797,,https://www.ctmcagliari.it/fermate/fermata-NS0158,,,,0
+PV0472,0472,S.P. Villasimius (fronte via Lago di Alserio),,39.215615778648864,9.301576741882907,,https://www.ctmcagliari.it/fermate/fermata-PV0472,,,,2
+SE0587,0587,Sulcitana Elmas (prima fermata),,39.268665784647964,9.047141491799997,,https://www.ctmcagliari.it/fermate/fermata-SE0587,,,,1
+VV0945,0945,Vittorio Veneto (ang. via Mazzini),,39.253996576696064,9.171353317308377,,https://www.ctmcagliari.it/fermate/fermata-VV0945,,,,2
+AD0278,0278,Diaz (ang. via Caboto),,39.206188149769764,9.125934968026287,,https://www.ctmcagliari.it/fermate/fermata-AD0278,,,,1
+AN0451,0451,Sant'Antonio (ang. via Fadda),,39.240614245652964,9.194942676561787,,https://www.ctmcagliari.it/fermate/fermata-AN0451,,,,2
+BS0326,0326,San Bartolomeo (fronte piazza),,39.196041136276264,9.145755822632157,,https://www.ctmcagliari.it/fermate/fermata-BS0326,,,,2
+CC0012,0012,Cocco Ortu (fronte Mercato),,39.223493154893364,9.122320559567677,,https://www.ctmcagliari.it/fermate/fermata-CC0012,,,,1
+EL0124,0124,Elmas (distributore),,39.242954480774264,9.090430802569257,,https://www.ctmcagliari.it/fermate/fermata-EL0124,,,,1
+GN0395,0395,Giorgino (Villaggio Pescatori),,39.212109482745364,9.090874821301317,,https://www.ctmcagliari.it/fermate/fermata-GN0395,,,,2
+GT0140,0140,Giotto (ang. via Carpaccio),,39.250604881368364,9.095952177663677,,https://www.ctmcagliari.it/fermate/fermata-GT0140,,,,1
+IT0824,0824,Italia (portici),,39.246823564194164,9.129754094534937,,https://www.ctmcagliari.it/fermate/fermata-IT0824,,,,1
+MR0406,0406,Margine Rosso (ang. via Sussalai),,39.228541926690764,9.228339681980647,,https://www.ctmcagliari.it/fermate/fermata-MR0406,,,,2
+PS0257,0257,Pessina (fronte Tribunale),,39.215838611461464,9.126253028183407,,https://www.ctmcagliari.it/fermate/fermata-PS0257,,,,1
+RS0688,0688,Risorgimento (ang. via Berchet),,39.243304399444564,9.134068254194377,,https://www.ctmcagliari.it/fermate/fermata-RS0688,,,,2
+SE0588,0588,Sulcitana Elmas (ang. via del Mare),,39.268499005182564,9.047331566542657,,https://www.ctmcagliari.it/fermate/fermata-SE0588,,,,1
+BD0847,0847,San Benedetto (ang. via Atene),,39.233051208164264,9.193937611003167,,https://www.ctmcagliari.it/fermate/fermata-BD0847,,,,2
+DM0743,0743,Decio Mure (Istituto Alberghiero),,39.260383511648364,9.127389064870047,,https://www.ctmcagliari.it/fermate/fermata-DM0743,,,,1
+DV0420,0420,L. da Vinci (ang. via S. Giovanni),,39.220256043217864,9.268601676739087,,https://www.ctmcagliari.it/fermate/fermata-DV0420,,,,1
+EL0117,0117,Elmas (seconda fermata),,39.245411410623364,9.088557678957137,,https://www.ctmcagliari.it/fermate/fermata-EL0117,,,,1
+FI0941,0941,Fiume (canneto),,39.232923194748164,9.215502867644717,,https://www.ctmcagliari.it/fermate/fermata-FI0941,,,,1
+IT0690,0690,Italia (ang. via D'Acquisto),,39.246710819155364,9.129850943838507,,https://www.ctmcagliari.it/fermate/fermata-IT0690,,,,1
+LI0078,0078,Liguria (Pacinotti),,39.229296480285064,9.117713597451327,,https://www.ctmcagliari.it/fermate/fermata-LI0078,,,,1
+LP0332,0332,Poetto (caserma Monfenera),,39.196896121920064,9.150141248614557,,https://www.ctmcagliari.it/fermate/fermata-LP0332,,,,1
+MS0174,0174,Is Maglias (ang. via dei Punici),,39.228381662427064,9.108647928828617,,https://www.ctmcagliari.it/fermate/fermata-MS0174,,,,2
+PS0263,0263,Pessina (fronte via Taramelli),,39.213357321199164,9.129226241193617,,https://www.ctmcagliari.it/fermate/fermata-PS0263,,,,1
+PV0431,0431,S.P. Villasimius (ang. via Liri),,39.211636207241864,9.305501589463717,,https://www.ctmcagliari.it/fermate/fermata-PV0431,,,,2
+PZ0993,0993,Pitz'e serra (ang. via Viniola),,39.240345085031464,9.219603049005827,,https://www.ctmcagliari.it/fermate/fermata-PZ0993,,,,2
+SG1019,1019,San Giovanni (altezza civico 209),,39.220647502061664,9.119107260399317,,https://www.ctmcagliari.it/fermate/fermata-SG1019,,,,2
+BR0509,0509,Brigata Sassari (lato Banca),,39.242868245910664,9.180172800094807,,https://www.ctmcagliari.it/fermate/fermata-BR0509,,,,2
+CR0114,0114,Cornalias (chiesa),,39.242414617640564,9.105549812807467,,https://www.ctmcagliari.it/fermate/fermata-CR0114,,,,1
+DA0984,0984,Danimarca (ang. via Bulgaria),,39.238543775712164,9.206813468069797,,https://www.ctmcagliari.it/fermate/fermata-DA0984,,,,1
+DR2127,2127,Delle Rondini (ang. via Dei Cigni),,39.201149712530264,9.151275692503827,,https://www.ctmcagliari.it/fermate/fermata-DR2127,,,,0
+FE0223,0223,28 Febbraio (fronte Assessorato RAS),,39.229215438384864,9.126262872243067,,https://www.ctmcagliari.it/fermate/fermata-FE0223,,,,1
+GC0816,0816,Giulio Cesare (ang. via Sant'Angelo),,39.263058742005764,9.139755694928067,,https://www.ctmcagliari.it/fermate/fermata-GC0816,,,,1
+GP0760,0760,Peretti (uffici INPS),,39.249989896061264,9.113475311758157,,https://www.ctmcagliari.it/fermate/fermata-GP0760,,,,1
+GQ0383,0383,Golfo di Quartu S.E. (Lido Finanza),,39.220847052492764,9.187683429417797,,https://www.ctmcagliari.it/fermate/fermata-GQ0383,,,,0
+IG0860,0860,Is Guadazzonis (scuole),,39.210403566795664,9.139337801430747,,https://www.ctmcagliari.it/fermate/fermata-IG0860,,,,0
+LV0961,0961,Centro Commerciale Le Vele,,39.245334668160564,9.166782964163427,,https://www.ctmcagliari.it/fermate/fermata-LV0961,,,,1
+ME1151,1151,della Menta (ang. via Mereu),,39.255132361880864,9.116305478274617,,https://www.ctmcagliari.it/fermate/fermata-ME1151,,,,2
+MS2038,2038,Is Maglias (nuovi edifici),,39.230763149967764,9.105840838865097,,https://www.ctmcagliari.it/fermate/fermata-MS2038,,,,1
+EL0361,0361,Elmas (fronte via Infante Alfonso),,39.245028370268764,9.088654970482217,,https://www.ctmcagliari.it/fermate/fermata-EL0361,,,,1
+FI0446,0446,Fiume (ang. via San Benedetto),,39.236253950800264,9.199661803161947,,https://www.ctmcagliari.it/fermate/fermata-FI0446,,,,1
+LP0180,0180,Poetto (ang. via Pantelleria),,39.196078141360064,9.152054286873037,,https://www.ctmcagliari.it/fermate/fermata-LP0180,,,,1
+LU0120,0120,Lunigiana (Hotel Sardegna),,39.241785351583564,9.098698497261787,,https://www.ctmcagliari.it/fermate/fermata-LU0120,,,,1
+SS0677,0677,Don Orione (chiesa),,39.260911903872164,9.168661072647637,,https://www.ctmcagliari.it/fermate/fermata-SS0677,,,,2
+AL0184,0184,Alghero ( piazza Repubblica),,39.216769113202264,9.124049753682107,,https://www.ctmcagliari.it/fermate/fermata-AL0184,,,,1
+AR0971,0971,S'Arrulloni (ang. via Silesu),,39.233138985264564,9.184274215306877,,https://www.ctmcagliari.it/fermate/fermata-AR0971,,,,1
+BC0565,0565,Bosco Cappuccio (piazza S.Michele),,39.237655408765364,9.098553301388027,,https://www.ctmcagliari.it/fermate/fermata-BC0565,,,,0
+CO0188,0188,dei Conversi (piazza Padre Pio),,39.219961154856964,9.130989717437307,,https://www.ctmcagliari.it/fermate/fermata-CO0188,,,,1
+EC0718,0718,S'Ecca S'Arrideli (ang. via Van Dick),,39.243397448984764,9.268071763652637,,https://www.ctmcagliari.it/fermate/fermata-EC0718,,,,2
+GV0992,0992,Vico (ang. via Manara),,39.234429836295764,9.185675259100397,,https://www.ctmcagliari.it/fermate/fermata-GV0992,,,,2
+LY0035,0035,La Plaia (fronte mercato Ittico),,39.214871096848564,9.102073640257167,,https://www.ctmcagliari.it/fermate/fermata-LY0035,,,,2
+MC0242,0242,Santa Maria Chiara (scuole),,39.243685372244664,9.123653899374177,,https://www.ctmcagliari.it/fermate/fermata-MC0242,,,,1
+MU0970,0970,Musica (Parco Molentargius) ,,39.231847509872664,9.177439893096197,,https://www.ctmcagliari.it/fermate/fermata-MU0970,,,,2
+MU0975,0975,Musica (Stradivari - Parco Molentargius),,39.232090820453764,9.177430738505847,,https://www.ctmcagliari.it/fermate/fermata-MU0975,,,,1
+PV1181,1181,Pisano (parco Terramaiani),,39.244254632407664,9.138284649865617,,https://www.ctmcagliari.it/fermate/fermata-PV1181,,,,1
+RE2014,2014,della Resistenza (mercato),,39.245840051388864,9.130931079295487,,https://www.ctmcagliari.it/fermate/fermata-RE2014,,,,2
+TS0530,0530,Trieste (ang. via Monte Arci),,39.252921040857664,9.150894125846007,,https://www.ctmcagliari.it/fermate/fermata-TS0530,,,,1
+SE0023,0023,20 Settembre (ang. via Lanusei),,39.213174851729664,9.118635433351087,,https://www.ctmcagliari.it/fermate/fermata-SE0023,,,,1
+AG0727,0727,Autonomia Regionale (lato civico n.46),,39.228620710732264,9.281569562782007,,https://www.ctmcagliari.it/fermate/fermata-AG0727,,,,2
+AG0770,0770,Autonomia Regionale (fronte civico n. 30),,39.224165265117964,9.283479868605367,,https://www.ctmcagliari.it/fermate/fermata-AG0770,,,,2
+AG1154,1154,Segni (fronte via Putzolu),,39.258327351608264,9.124435920762087,,https://www.ctmcagliari.it/fermate/fermata-AG1154,,,,1
+AV0144,0144,S. Avendrace (fronte via Montello),,39.232577035944064,9.097618180639597,,https://www.ctmcagliari.it/fermate/fermata-AV0144,,,,1
+CI0007,0007,Ciusa (Leonardo da Vinci),,39.229433893349664,9.119926405881957,,https://www.ctmcagliari.it/fermate/fermata-CI0007,,,,1
+CM0600,0600,Carmine (fronte via Montale),,39.280753036786564,9.018327074398187,,https://www.ctmcagliari.it/fermate/fermata-CM0600,,,,2
+CO0458,0458,Colombo (ang. via Foscolo),,39.234843083304564,9.183626907395727,,https://www.ctmcagliari.it/fermate/fermata-CO0458,,,,2
+DO0225,0225,Donoratico (fronte parco),,39.230051244889464,9.124132875155707,,https://www.ctmcagliari.it/fermate/fermata-DO0225,,,,2
+IP0356,0356,Ippodromo (ang. via Ausonia),,39.206421179867764,9.165121127523227,,https://www.ctmcagliari.it/fermate/fermata-IP0356,,,,0
+LS0972,0972,Lungosaline (ang. via d'Elba),,39.195214634799564,9.157664594959127,,https://www.ctmcagliari.it/fermate/fermata-LS0972,,,,1
+VS0684,0684,Vesalio (scuole),,39.238657644099264,9.131517383439237,,https://www.ctmcagliari.it/fermate/fermata-VS0684,,,,1
+AH1133,1133,Archimede (ang. via Avogadro),,39.235711915621164,9.130751109393197,,https://www.ctmcagliari.it/fermate/fermata-AH1133,,,,1
+AV0146,0146,S. Avendrace (ang. via Tirso),,39.229606873457064,9.098851239660047,,https://www.ctmcagliari.it/fermate/fermata-AV0146,,,,1
+CU0919,0919,Cugia (ang. via Randaccio),,39.215784741066964,9.129586824145267,,https://www.ctmcagliari.it/fermate/fermata-CU0919,,,,1
+AD0917,0917,Diaz (parcheggi Fiera),,39.205677335042064,9.127490037593487,,https://www.ctmcagliari.it/fermate/fermata-AD0917,,,,1
+AG0583,0583,Istituto Agrario,,39.266376527877564,9.066573473553187,,https://www.ctmcagliari.it/fermate/fermata-AG0583,,,,1
+AG0736,0736,Autonomia Regionale (ang. via Menta Fiorita),,39.236007616472564,9.278040428118227,,https://www.ctmcagliari.it/fermate/fermata-AG0736,,,,2
+AM0170,0170,d'Armi (Ingegneria),,39.227852874451364,9.110396928928517,,https://www.ctmcagliari.it/fermate/fermata-AM0170,,,,1
+AR0973,0973,S'Arrulloni (fronte via Silesu),,39.233256261027664,9.184190147841917,,https://www.ctmcagliari.it/fermate/fermata-AR0973,,,,1
+BU0065,0065,Buoncammino (Polizia),,39.222693229339364,9.115906180420807,,https://www.ctmcagliari.it/fermate/fermata-BU0065,,,,1
+CO0189,0189,dei Conversi  (fermata Metrò),,39.220180837105564,9.131307310458427,,https://www.ctmcagliari.it/fermate/fermata-CO0189,,,,1
+DM0504,0504,Brigata Sassari (ex Fornaci),,39.246599401366164,9.176831711998617,,https://www.ctmcagliari.it/fermate/fermata-DM0504,,,,1
+GC0829,0829,Giulio Cesare (cimitero),,39.265113871490964,9.139225458066197,,https://www.ctmcagliari.it/fermate/fermata-GC0829,,,,1
+LI2134,2134,della Libertà (civico 20),,39.254995232524164,9.157565060915587,,https://www.ctmcagliari.it/fermate/fermata-LI2134,,,,0
+LS0348,0348,Lungosaline (ang. Via Gorgona),,39.197227796180464,9.158259713858007,,https://www.ctmcagliari.it/fermate/fermata-LS0348,,,,1
+MA0482,0482,Marconi (altezza centro medico),,39.237446158873064,9.142887554368227,,https://www.ctmcagliari.it/fermate/fermata-MA0482,,,,2
+MG0489,0489,I Maggio (fronte via Deledda),,39.246031444375264,9.158223756026737,,https://www.ctmcagliari.it/fermate/fermata-MG0489,,,,1
+NZ0958,0958,Nazionale (ang. via Selargius),,39.252699138300964,9.177280564223007,,https://www.ctmcagliari.it/fermate/fermata-NZ0958,,,,2
+RO0844,0844,Rosselli (parco comunale),,39.251948932621464,9.172813360180477,,https://www.ctmcagliari.it/fermate/fermata-RO0844,,,,1
+SA0058,0058,Santa Margherita (parcheggi),,39.220457175681864,9.113683463585427,,https://www.ctmcagliari.it/fermate/fermata-SA0058,,,,0
+SO0019,0019,Sonnino  (ang. via Alghero),,39.217438787849364,9.121334822107437,,https://www.ctmcagliari.it/fermate/fermata-SO0019,,,,1
+ST2074,2074,Stamira (lato civico 41),,39.249049226910864,9.119261382788587,,https://www.ctmcagliari.it/fermate/fermata-ST2074,,,,2
+VR0998,0998,Verdi (ang. via Leoncavallo),,39.233994365984764,9.178919721753627,,https://www.ctmcagliari.it/fermate/fermata-VR0998,,,,1
+AU1142,1142,Binaghi (ang. via Aresu),,39.254250541909664,9.100433482315147,,https://www.ctmcagliari.it/fermate/fermata-AU1142,,,,1
+BD2024,2024,San Benedetto (ang. via Fiume),,39.235830760131664,9.199471953957487,,https://www.ctmcagliari.it/fermate/fermata-BD2024,,,,2
+BE2135,2135,delle Begonie (ingresso Parco),,39.257652717499964,9.155390439414417,,https://www.ctmcagliari.it/fermate/fermata-BE2135,,,,0
+CE0863,0863,Curie (ang. via Corsica),,39.208834628877164,9.136392330534467,,https://www.ctmcagliari.it/fermate/fermata-CE0863,,,,1
+DP0292,0292,della Pineta (fronte via Dexart),,39.211228565550464,9.131154175054357,,https://www.ctmcagliari.it/fermate/fermata-DP0292,,,,2
+FL0516,0516,Flumini (cantoniera),,39.218962673054864,9.287596490369447,,https://www.ctmcagliari.it/fermate/fermata-FL0516,,,,1
+IR0077,0077,Romagna (fronte parcheggi),,39.227795270845664,9.118579664707187,,https://www.ctmcagliari.it/fermate/fermata-IR0077,,,,1
+LP0331,0331,Poetto (ang. via Vergine di Lluc),,39.197876019167664,9.148425022118867,,https://www.ctmcagliari.it/fermate/fermata-LP0331,,,,1
+LP0378,0378,Poetto (Idrovora - Parco Molentargius),,39.213003483147664,9.172791324242767,,https://www.ctmcagliari.it/fermate/fermata-LP0378,,,,2
+ME0165,0165,Merello (ang. via Vittorio Veneto),,39.225235321633664,9.110246203378387,,https://www.ctmcagliari.it/fermate/fermata-ME0165,,,,2
+PC1272,1272,della Pace (lato vico della Pace),,39.248317190095664,9.177487986148077,,https://www.ctmcagliari.it/fermate/fermata-PC1272,,,,1
+PV0475,0475,S.P. Villasimius (ang. via Lago di Varese),,39.217128964421764,9.299570007048467,,https://www.ctmcagliari.it/fermate/fermata-PV0475,,,,2
+VE2105,2105,Veneto (Parchetto),,39.305238240440464,8.974357512617307,,https://www.ctmcagliari.it/fermate/fermata-VE2105,,,,2
+BA0010,0010,Bacaredda  (vico S. Giovanni),,39.226067836726564,9.120361655923447,,https://www.ctmcagliari.it/fermate/fermata-BA0010,,,,1
+BA0813,0813,Bacaredda (ang. piazza Garibaldi),,39.219840638148664,9.121886115429297,,https://www.ctmcagliari.it/fermate/fermata-BA0813,,,,2
+BD0846,0846,San Benedetto (piscina),,39.231426351690364,9.190219343287397,,https://www.ctmcagliari.it/fermate/fermata-BD0846,,,,0
+BE0678,0678,Bellini (scuole),,39.261936891902164,9.167103036003307,,https://www.ctmcagliari.it/fermate/fermata-BE0678,,,,1
+BM1191,1191,Bembo (chiesa),,39.232927650803664,9.130635150071227,,https://www.ctmcagliari.it/fermate/fermata-BM1191,,,,1
+BS0342,0342,Borgo Sant'Elia (fronte piazza Callas),,39.194756959652964,9.142192925469487,,https://www.ctmcagliari.it/fermate/fermata-BS0342,,,,1
+CH1101,1101,Chiabrera (ang. via Stampa),,39.232479117510564,9.128825007031797,,https://www.ctmcagliari.it/fermate/fermata-CH1101,,,,0
+EC0713,0713,S'Ecca S'Arrideli  (ang. via Lungolago Simbirizzi),,39.241727387960864,9.236171789026607,,https://www.ctmcagliari.it/fermate/fermata-EC0713,,,,2
+GU0300,0300,Giudicati (capolinea 13),,39.228392350372264,9.124947846813467,,https://www.ctmcagliari.it/fermate/fermata-GU0300,,,,1
+IM0100,0100,Is Mirrionis (fronte Ospedale),,39.236185743828064,9.108042948558937,,https://www.ctmcagliari.it/fermate/fermata-IM0100,,,,0
+LP0377,0377,Poetto (Idrovora H Marino - Parco Molentargius),,39.213102527170164,9.172843333097797,,https://www.ctmcagliari.it/fermate/fermata-LP0377,,,,1
+NA0619,0619,Nazionale (ang. via Italia),,39.307900227650564,8.969130138526367,,https://www.ctmcagliari.it/fermate/fermata-NA0619,,,,1
+PF2072,2072,Piero della Francesca altezza civico 4,,39.250409701207864,9.102920478616307,,https://www.ctmcagliari.it/fermate/fermata-PF2072,,,,1
+SF1256,1256,San Francesco (ang. via Fadda),,39.243798353820364,9.192999572528937,,https://www.ctmcagliari.it/fermate/fermata-SF1256,,,,2
+SG0059,0059,San Giorgio (parcheggi),,39.220655059604264,9.113033097846377,,https://www.ctmcagliari.it/fermate/fermata-SG0059,,,,1
+SR1165,1165,Sarcidano (ang. via Marmilla),,39.295613423823864,9.003194007721047,,https://www.ctmcagliari.it/fermate/fermata-SR1165,,,,2
+VB0733,0733,Brotzu (ang. via Piero della Francesca),,39.251920287907264,9.101495697404527,,https://www.ctmcagliari.it/fermate/fermata-VB0733,,,,1
+AD0298,0298,Diaz (fronte Amsicora),,39.204734633667464,9.138010119391147,,https://www.ctmcagliari.it/fermate/fermata-AD0298,,,,1
+AR0515,0515,S'Arrulloni (Campi Sportivi),,39.230853434510564,9.179311830987727,,https://www.ctmcagliari.it/fermate/fermata-AR0515,,,,1
+BS0323,0323,Borgo Sant'Elia (ang. via Callas),,39.194801595905664,9.142034074853587,,https://www.ctmcagliari.it/fermate/fermata-BS0323,,,,1
+CB0823,0823,Cabras (fronte Polizia Municipale),,39.251745739646264,9.139550695299257,,https://www.ctmcagliari.it/fermate/fermata-CB0823,,,,2
+CM0598,0598,Carmine (fronte distributore),,39.279310693402164,9.021786141496277,,https://www.ctmcagliari.it/fermate/fermata-CM0598,,,,1
+DA2104,2104,Aie (Casa di Cura),,39.310748661621064,8.975528022687767,,https://www.ctmcagliari.it/fermate/fermata-DA2104,,,,2
+DP0290,0290,della Pineta (ang. via dei Colombi),,39.209447430887764,9.132442341319087,,https://www.ctmcagliari.it/fermate/fermata-DP0290,,,,1
+GT0661,0661,San Gottardo (ang. via Dorgali),,39.262815446329464,9.143460892607027,,https://www.ctmcagliari.it/fermate/fermata-GT0661,,,,1
+IL1123,1123,Marmilla (ang. via Monsignor Virgilio),,39.249642585077864,9.122743723999107,,https://www.ctmcagliari.it/fermate/fermata-IL1123,,,,2
+MR0740,0740,San Martino (cimitero Pirri),,39.243608399164664,9.132203101659987,,https://www.ctmcagliari.it/fermate/fermata-MR0740,,,,2
+NZ1138,1138,Pisano (fronte Marconi),,39.242323287809664,9.139820822290647,,https://www.ctmcagliari.it/fermate/fermata-NZ1138,,,,1
+PU2060,2060,Puglia (a 50 metri dal civico 1),,39.243148853150464,9.099980639606717,,https://www.ctmcagliari.it/fermate/fermata-PU2060,,,,0
+SA0596,0596,Sulcitana Assemini (prima fermata),,39.277499907431364,9.026263106245887,,https://www.ctmcagliari.it/fermate/fermata-SA0596,,,,2
+SC0259,0259,Scano (ang. via Cugia),,39.215307150228064,9.130174979319387,,https://www.ctmcagliari.it/fermate/fermata-SC0259,,,,2
+SV0343,0343,Schiavazzi (fronte Lazzareto),,39.191380859032164,9.139804987731987,,https://www.ctmcagliari.it/fermate/fermata-SV0343,,,,1
+AF1170,1170,Africa (ang. via Porto Torres),,39.298005768198964,8.995355749156497,,https://www.ctmcagliari.it/fermate/fermata-AF1170,,,,1
+DV0416,0416,L. da Vinci (fronte Hotel Setar),,39.221339526225764,9.253564875260177,,https://www.ctmcagliari.it/fermate/fermata-DV0416,,,,1
+DV0728,0728,L. da Vinci  (ang. via Anglona),,39.220717820407664,9.263687588586887,,https://www.ctmcagliari.it/fermate/fermata-DV0728,,,,1
+DS0960,0960,delle Serre (ang. via Verdi),,39.248973924386364,9.170702245621937,,https://www.ctmcagliari.it/fermate/fermata-DS0960,,,,1
+GP0765,0765,Peretti (Hotel Quadrifoglio),,39.251647663976564,9.104095747524587,,https://www.ctmcagliari.it/fermate/fermata-GP0765,,,,1
+GT0659,0659,San Gottardo (ang. via Diocleziano),,39.261029214094664,9.145127830043127,,https://www.ctmcagliari.it/fermate/fermata-GT0659,,,,1
+LP0381,0381,Poetto (lido Polizia),,39.218570011768964,9.183129092058907,,https://www.ctmcagliari.it/fermate/fermata-LP0381,,,,0
+MC1160,1160,Santa Maria Chiara (ang. via Fabio Filzi),,39.244635398626664,9.124246943612417,,https://www.ctmcagliari.it/fermate/fermata-MC1160,,,,2
+ME0476,0476,Merello (ang. via Sant'Antonio),,39.239679637300964,9.193423555811237,,https://www.ctmcagliari.it/fermate/fermata-ME0476,,,,2
+PZ0996,0996,Pitz' e Serra (fronte via Viniola),,39.240530679784464,9.219141201929207,,https://www.ctmcagliari.it/fermate/fermata-PZ0996,,,,2
+CU0735,0735,Cittadella Universitaria,,39.268590386373364,9.122314256073307,,https://www.ctmcagliari.it/fermate/fermata-CU0735,,,,1
+GA0497,0497,Gallus (fronte Torre),,39.253646813792264,9.170218461499627,,https://www.ctmcagliari.it/fermate/fermata-GA0497,,,,2
+GH0732,0732,Gherardo delle Notti (scuole),,39.252738804864864,9.097963407163017,,https://www.ctmcagliari.it/fermate/fermata-GH0732,,,,2
+GS1125,1125,Ginestre (ang. via Toti),,39.252685590841864,9.121017790135967,,https://www.ctmcagliari.it/fermate/fermata-GS1125,,,,1
+IM0086,0086,Is Mirrionis (ang. via Falletti),,39.234707234834064,9.110382735502577,,https://www.ctmcagliari.it/fermate/fermata-IM0086,,,,1
+MR0412,0412,L. da Vinci (ang. via Asparago),,39.226074061547164,9.243350472448387,,https://www.ctmcagliari.it/fermate/fermata-MR0412,,,,1
+PR0062,0062,Porcell (ang. via dei Genovesi),,39.220826322342664,9.115686106358987,,https://www.ctmcagliari.it/fermate/fermata-PR0062,,,,2
+PS0258,0258,Pessina (fronte via Gianturco),,39.215495340682464,9.127036843156207,,https://www.ctmcagliari.it/fermate/fermata-PS0258,,,,1
+PY0047,0047,Yenne (ang. corso Vittorio Emanuele),,39.217127259875664,9.113021289131987,,https://www.ctmcagliari.it/fermate/fermata-PY0047,,,,1
+RM0040,0040,Roma (fronte Stazione FS),,39.216298073712564,9.108463871017257,,https://www.ctmcagliari.it/fermate/fermata-RM0040,,,,1
+RV0237,0237,Riva Villasanta (ang. via Calamattia),,39.238034085945464,9.124968935625877,,https://www.ctmcagliari.it/fermate/fermata-RV0237,,,,1
+SA1143,1143,Sassari (fronte parcheggio stazione),,39.215105504154364,9.108780055090847,,https://www.ctmcagliari.it/fermate/fermata-SA1143,,,,1
+BA0015,0015,Bacaredda (Agenzia delle Entrate),,39.221915502730564,9.121481836925757,,https://www.ctmcagliari.it/fermate/fermata-BA0015,,,,1
+CC0202,0202,Cocco Ortu (ang. via Foscolo),,39.223364700466764,9.124491817943917,,https://www.ctmcagliari.it/fermate/fermata-CC0202,,,,1
+CF0043,0043,Carlo Felice (Palazzo Civico),,39.215497889875264,9.111335044710727,,https://www.ctmcagliari.it/fermate/fermata-CF0043,,,,1
+CM0599,0599,Carmine (ang. via Montale),,39.281182662950464,9.017663002028747,,https://www.ctmcagliari.it/fermate/fermata-CM0599,,,,1
+DA0270,0270,Dante (fronte San Saturnino),,39.213714417730664,9.124012882600967,,https://www.ctmcagliari.it/fermate/fermata-DA0270,,,,1
+DQ1158,1158,D'Aquino (ang. via Bacone),,39.248187884429664,9.117829567909457,,https://www.ctmcagliari.it/fermate/fermata-DQ1158,,,,2
+GH2016,2016,Gherardo delle Notti (fronte via Laconi),,39.253292136925564,9.093507095841627,,https://www.ctmcagliari.it/fermate/fermata-GH2016,,,,1
+MI0286,0286,Milano (ang. via Arezzo),,39.207193728707164,9.133271323177747,,https://www.ctmcagliari.it/fermate/fermata-MI0286,,,,2
+MP0088,0088,Piovella (piazza d'Esquivel),,39.236252029792664,9.112673057581777,,https://www.ctmcagliari.it/fermate/fermata-MP0088,,,,1
+MS0179,0179,Is Maglias (ang. via Doberdò),,39.234141414790564,9.101746711425597,,https://www.ctmcagliari.it/fermate/fermata-MS0179,,,,2
+NZ0965,0965,Nazionale (vico VI Nazionale),,39.255125887374464,9.181312850700657,,https://www.ctmcagliari.it/fermate/fermata-NZ0965,,,,1
+OE0245,0245,Poerio (ang. via Melis),,39.240733421396664,9.128605078471997,,https://www.ctmcagliari.it/fermate/fermata-OE0245,,,,1
+PA2083,2083,Parigi (lato civico 29),,39.236255447427364,9.136977680241357,,https://www.ctmcagliari.it/fermate/fermata-PA2083,,,,1
+PV0440,0440,S.P. Villasimius (ang. via delle Acacie),,39.194942998614364,9.336674565780917,,https://www.ctmcagliari.it/fermate/fermata-PV0440,,,,2
+TB0879,0879,Torbeno (T Hotel),,39.227885504203964,9.122808636533287,,https://www.ctmcagliari.it/fermate/fermata-TB0879,,,,1
+TZ0201,0201,Tiziano (ang. via Alfieri),,39.222405732957964,9.123830873152827,,https://www.ctmcagliari.it/fermate/fermata-TZ0201,,,,1
+SE0589,0589,Sulcitana Elmas (ang. via Marsala),,39.270208078577564,9.043483195224507,,https://www.ctmcagliari.it/fermate/fermata-SE0589,,,,1
+TS0506,0506,Trieste (Poste),,39.253622456124964,9.162026053820937,,https://www.ctmcagliari.it/fermate/fermata-TS0506,,,,1
+AM2117,2117,Ampere (ang. via Sinnai),,39.249323024316364,9.134489316268207,,https://www.ctmcagliari.it/fermate/fermata-AM2117,,,,0
+CI0003,0003,Ciusa (ang. via Donoratico),,39.231811096266664,9.121565590852207,,https://www.ctmcagliari.it/fermate/fermata-CI0003,,,,1
+CS0136,0136,Crespellani (ang. via Cimabue),,39.257633864483364,9.100770464889247,,https://www.ctmcagliari.it/fermate/fermata-CS0136,,,,1
+DA0273,0273,Dante (ang. via Deledda),,39.216038470048064,9.124752905555487,,https://www.ctmcagliari.it/fermate/fermata-DA0273,,,,1
+EC0716,0716,S'Ecca S'Arrideli (seconda fermata),,39.241755769515664,9.260877284276117,,https://www.ctmcagliari.it/fermate/fermata-EC0716,,,,2
+EM0104,0104,Emilia (ang. via Mandrolisai),,39.238295368264864,9.101873651071867,,https://www.ctmcagliari.it/fermate/fermata-EM0104,,,,1
+FG0214,0214,San Fulgenzio (ang. via Marconi),,39.261730639217164,9.131139215812337,,https://www.ctmcagliari.it/fermate/fermata-FG0214,,,,1
+IN1136,1136,Brancaleone (Giua),,39.243117581486464,9.139682794968157,,https://www.ctmcagliari.it/fermate/fermata-IN1136,,,,2
+IT0549,0549,Italia (passaggio livello),,39.250086844680864,9.132590115622507,,https://www.ctmcagliari.it/fermate/fermata-IT0549,,,,1
+JE0560,0560,Jenner (Ingresso Ospedale Brotzu),,39.248906529816264,9.110927183462577,,https://www.ctmcagliari.it/fermate/fermata-JE0560,,,,1
+JE0842,0842,Jenner (ang. via Koch),,39.241105401163964,9.117690608491157,,https://www.ctmcagliari.it/fermate/fermata-JE0842,,,,1
+LP0948,0948,Poetto (Lido Esercito),,39.208071962583964,9.167087412712617,,https://www.ctmcagliari.it/fermate/fermata-LP0948,,,,0
+MI0280,0280,Milano (ang. via Genova),,39.208001192218364,9.128390079330417,,https://www.ctmcagliari.it/fermate/fermata-MI0280,,,,1
+MS0178,0178,Is Maglias (ang. via Monte Grappa),,39.232522755814264,9.103095657469587,,https://www.ctmcagliari.it/fermate/fermata-MS0178,,,,2
+RS1257,1257,Rossini (ang. via Mascagni),,39.235545779237864,9.177924637424637,,https://www.ctmcagliari.it/fermate/fermata-RS1257,,,,2
+SA0057,0057,Santa Margherita (ang. via Azuni),,39.218428833886564,9.113553355887977,,https://www.ctmcagliari.it/fermate/fermata-SA0057,,,,1
+AN0700,0700,Sant' Antonio (ang. via Liguria),,39.241622919638364,9.197942801209847,,https://www.ctmcagliari.it/fermate/fermata-AN0700,,,,2
+BD0938,0938,San Benedetto (ang. via Parigi),,39.231821940332164,9.190766422742567,,https://www.ctmcagliari.it/fermate/fermata-BD0938,,,,1
+CB1251,1251,Cimabue (ang. via Diaz),,39.247707657644964,9.188384444481607,,https://www.ctmcagliari.it/fermate/fermata-CB1251,,,,2
+CL0337,0337,Calamosca (seconda fermata ),,39.193970285755464,9.147989053464837,,https://www.ctmcagliari.it/fermate/fermata-CL0337,,,,2
+CM0601,0601,Carmine (fronte Chiesa),,39.282803656883564,9.013703801051357,,https://www.ctmcagliari.it/fermate/fermata-CM0601,,,,1
+CO0459,0459,Colombo (ang. via Paganini),,39.234577057145064,9.183755118212677,,https://www.ctmcagliari.it/fermate/fermata-CO0459,,,,1
+AG0820,0820,Argentina (ang. via San Fulgenzio),,39.261630875576964,9.131709174146437,,https://www.ctmcagliari.it/fermate/fermata-AG0820,,,,1
+AN0682,0682,Sant' Antonio (ang. via S. Francesco),,39.256556649036464,9.173744669900037,,https://www.ctmcagliari.it/fermate/fermata-AN0682,,,,2
+AR2041,2041,Is Arenas (ang. via Pizzetti),,39.232737440915364,9.178849906474767,,https://www.ctmcagliari.it/fermate/fermata-AR2041,,,,2
+BA0016,0016,Bacaredda (fronte via Gioberti),,39.220637410202264,9.121609671132697,,https://www.ctmcagliari.it/fermate/fermata-BA0016,,,,0
+BD0848,0848,San Benedetto (ang. via Bonn),,39.234568908215564,9.197009779968927,,https://www.ctmcagliari.it/fermate/fermata-BD0848,,,,0
+BO0266,0266,Bonaria (Banco di Sardegna),,39.210841358341464,9.120076834170577,,https://www.ctmcagliari.it/fermate/fermata-BO0266,,,,1
+FI2019,2019,Fiume (fronte via Norvegia),,39.234595888132264,9.204875195423837,,https://www.ctmcagliari.it/fermate/fermata-FI2019,,,,2
+FL0494,0494,Flumini (Circonvallazione),,39.217744846716164,9.288881852952967,,https://www.ctmcagliari.it/fermate/fermata-FL0494,,,,1
+FL0633,0633,Autonomia Regionale (ang. via Mulinu Coccu),,39.219340806651064,9.285899462106037,,https://www.ctmcagliari.it/fermate/fermata-FL0633,,,,1
+GA2078,2078,Gallura (Chiesa),,39.259113433981264,9.110715483938187,,https://www.ctmcagliari.it/fermate/fermata-GA2078,,,,0
+GQ0384,0384,Golfo di Quartu S.E. (fronte lido Carabinieri),,39.218427295695964,9.182198008130537,,https://www.ctmcagliari.it/fermate/fermata-GQ0384,,,,0
+JE0872,0872,Jenner (Casa Accoglienza),,39.243138878526164,9.116194409127157,,https://www.ctmcagliari.it/fermate/fermata-JE0872,,,,2
+MH0877,0877,Marche (ang. via Piceno),,39.227312589492164,9.119160675348477,,https://www.ctmcagliari.it/fermate/fermata-MH0877,,,,2
+MI0287,0287,Milano (fronte via Arezzo),,39.207333793875164,9.132926280941857,,https://www.ctmcagliari.it/fermate/fermata-MI0287,,,,1
+PV0437,0437,S.P. Villasimius (fronte Camping),,39.205413503614364,9.319171174975577,,https://www.ctmcagliari.it/fermate/fermata-PV0437,,,,2
+SO0021,0021,Sonnino (Piazza Gramsci),,39.215564893804464,9.120230534716477,,https://www.ctmcagliari.it/fermate/fermata-SO0021,,,,1
+TN0152,0152,Trento (uffici regionali),,39.224809884904364,9.102480488006287,,https://www.ctmcagliari.it/fermate/fermata-TN0152,,,,1
+VD0866,0866,Vidal (parco),,39.213069522918164,9.132740178194647,,https://www.ctmcagliari.it/fermate/fermata-VD0866,,,,1
+CA2070,2070,Carbonia (lato civico 7),,39.214417700414964,9.119293446042287,,https://www.ctmcagliari.it/fermate/fermata-CA2070,,,,1
+DA0196,0196,Dante (Stazione metro),,39.216925784780564,9.125004980135667,,https://www.ctmcagliari.it/fermate/fermata-DA0196,,,,1
+DA1147,1147,Dante (ang. via Cino da Pistoia),,39.222616015105764,9.125212017075387,,https://www.ctmcagliari.it/fermate/fermata-DA1147,,,,1
+IM2026,2026,Is Mirrionis (fronte Magistero),,39.229587011355064,9.110902192791577,,https://www.ctmcagliari.it/fermate/fermata-IM2026,,,,1
+LI2050,2050,della Libertà civico 33,,39.254759131798764,9.157801494596577,,https://www.ctmcagliari.it/fermate/fermata-LI2050,,,,2
+LP0359,0359,Poetto (ang. via San Pietro),,39.207952151821764,9.166861211597147,,https://www.ctmcagliari.it/fermate/fermata-LP0359,,,,1
+MA0464,0464,Marconi (ang. via Volta),,39.241630778671164,9.179173779242317,,https://www.ctmcagliari.it/fermate/fermata-MA0464,,,,1
+PE0193,0193,Pergolesi (ang. via San Benedetto),,39.222491679742464,9.127686995597287,,https://www.ctmcagliari.it/fermate/fermata-PE0193,,,,0
+PS0835,0835,del Pino Solitario (ang. via Polveriera),,39.268886104884464,9.048234609264847,,https://www.ctmcagliari.it/fermate/fermata-PS0835,,,,1
+SV0642,0642,Schiavazzi (scuola),,39.196419210198164,9.139937229885057,,https://www.ctmcagliari.it/fermate/fermata-SV0642,,,,1
+TS0528,0528,Trieste (fronte via Tirana),,39.253230311236664,9.155540560652677,,https://www.ctmcagliari.it/fermate/fermata-TS0528,,,,1
+VB0990,0990,Brotzu (ang. via Binaghi),,39.252132215522364,9.101300425103607,,https://www.ctmcagliari.it/fermate/fermata-VB0990,,,,1
+AZ0210,0210,dell'Abbazia (fronte via Conversi),,39.221371741510864,9.133989229385157,,https://www.ctmcagliari.it/fermate/fermata-AZ0210,,,,1
+CF0042,0042,Carlo Felice (Rinascente),,39.215000937233864,9.110989888244567,,https://www.ctmcagliari.it/fermate/fermata-CF0042,,,,1
+GQ0394,0394,Golfo di Quartu S.E. (fronte lido Mediterraneo),,39.225381550926364,9.200037930066987,,https://www.ctmcagliari.it/fermate/fermata-GQ0394,,,,0
+MU1261,1261,Musica (ang. via Rossini),,39.234545154138364,9.175220555376887,,https://www.ctmcagliari.it/fermate/fermata-MU1261,,,,1
+PE0192,0192,Pergolesi (ang. via Rossini),,39.222414730721364,9.128010862884107,,https://www.ctmcagliari.it/fermate/fermata-PE0192,,,,0
+PR0977,0977,Parini (ang. via Leoncavallo),,39.236222604464364,9.177267697354527,,https://www.ctmcagliari.it/fermate/fermata-PR0977,,,,2
+PV0432,0432,S.P. Villasimius (fronte via del Transatlantico),,39.210023369861064,9.308868833934487,,https://www.ctmcagliari.it/fermate/fermata-PV0432,,,,2
+PV1134,1134,Pisano (centro commerciale),,39.248149178554364,9.136753481047637,,https://www.ctmcagliari.it/fermate/fermata-PV1134,,,,1
+TS0529,0529,Trieste (ang. via Tirana),,39.253112731404364,9.155867717092627,,https://www.ctmcagliari.it/fermate/fermata-TS0529,,,,1
+BO0267,0267,Bonaria (fronte Banco di Sardegna),,39.211028003553864,9.119542513798657,,https://www.ctmcagliari.it/fermate/fermata-BO0267,,,,1
+BR0503,0503,Brigata Sassari (fronte ex Fornaci),,39.246364987394764,9.176916591012817,,https://www.ctmcagliari.it/fermate/fermata-BR0503,,,,1
+BS0074,0074,Borgo Sant'Elia (fronte via Ferrara),,39.197201706947264,9.143620840147277,,https://www.ctmcagliari.it/fermate/fermata-BS0074,,,,1
+CU2093,2093,Cittadella Universitaria - Lato Medicina,,39.271327867503664,9.124114834389937,,https://www.ctmcagliari.it/fermate/fermata-CU2093,,,,1
+CU2094,2094,Cittadella Universitaria - Lato Cesar,,39.271512112813664,9.122524891195877,,https://www.ctmcagliari.it/fermate/fermata-CU2094,,,,0
+EL0125,0125,Elmas (fronte via del Fangario),,39.242165717625364,9.090819800747737,,https://www.ctmcagliari.it/fermate/fermata-EL0125,,,,1
+EL0360,0360,Elmas (settima fermata),,39.238261515608064,9.093906106946047,,https://www.ctmcagliari.it/fermate/fermata-EL0360,,,,2
+EL0681,0681,Lussu (ang. via Zucca),,39.257446134614664,9.159829730949137,,https://www.ctmcagliari.it/fermate/fermata-EL0681,,,,1
+FG0737,0737,San Fulgenzio (ang. via Mure),,39.260219270718364,9.132934113887157,,https://www.ctmcagliari.it/fermate/fermata-FG0737,,,,1
+GH2017,2017,Gherardo delle Notti (ang. via Laconi),,39.253359522775864,9.093751305553807,,https://www.ctmcagliari.it/fermate/fermata-GH2017,,,,1
+GQ0389,0389,Golfo di Quartu S.E. (Torre),,39.227338106352664,9.207102436618117,,https://www.ctmcagliari.it/fermate/fermata-GQ0389,,,,0
+GT0947,0947,San Gottardo (stazione Metro Capolinea 17),,39.263864564200364,9.141330397058687,,https://www.ctmcagliari.it/fermate/fermata-GT0947,,,,1
+IT2030,2030,Italia (ang. via Dalla Chiesa),,39.236357424537764,9.209996422984557,,https://www.ctmcagliari.it/fermate/fermata-IT2030,,,,2
+MA0480,0480,Marconi (fronte via Torricelli),,39.242470366319564,9.172160348766857,,https://www.ctmcagliari.it/fermate/fermata-MA0480,,,,0
+NA0620,0620,Nazionale (fronte via Italia),,39.307220133521764,8.969999263170527,,https://www.ctmcagliari.it/fermate/fermata-NA0620,,,,1
+RS0689,0689,Risorgimento (ang. piazza Italia),,39.245570924684064,9.129857174007517,,https://www.ctmcagliari.it/fermate/fermata-RS0689,,,,2
+AG0724,0724,Autonomia Regionale (quarta fermata),,39.232615949817464,9.279520260115407,,https://www.ctmcagliari.it/fermate/fermata-AG0724,,,,2
+CA1111,1111,Cagliari (ang. via Firenze),,39.244544001404064,9.183242975422267,,https://www.ctmcagliari.it/fermate/fermata-CA1111,,,,1
+CM2139,2139,Centro Commerciale (direzione Matteotti),,39.230909209719064,9.092675977928747,,https://www.ctmcagliari.it/fermate/fermata-CM2139,,,,0
+CO0524,0524,Colombo (Polizia Municipale),,39.233542262862964,9.185670022995807,,https://www.ctmcagliari.it/fermate/fermata-CO0524,,,,0
+CU2090,2090,Cittadella Universitaria - Lato Biblioteca,,39.271434325173964,9.123934786212797,,https://www.ctmcagliari.it/fermate/fermata-CU2090,,,,1
+DP0289,0289,della Pineta (ang. via dei Passeri),,39.208098929141464,9.133627379236947,,https://www.ctmcagliari.it/fermate/fermata-DP0289,,,,1
+MA0483,0483,Marconi (fronte le Vele),,39.242959086129864,9.167613142696377,,https://www.ctmcagliari.it/fermate/fermata-MA0483,,,,2
+MM0045,0045,Mameli (ang. via Sassari),,39.217755918804064,9.110527003125577,,https://www.ctmcagliari.it/fermate/fermata-MM0045,,,,2
+PT0204,0204,Petrarca (ang. via Dante),,39.223394740492164,9.125886064607887,,https://www.ctmcagliari.it/fermate/fermata-PT0204,,,,0
+CT0227,0227,Castiglione (ang. via Grandi),,39.229145338681564,9.128564018782507,,https://www.ctmcagliari.it/fermate/fermata-CT0227,,,,1
+DC0248,0248,Canneto (ang. via Vesalio),,39.238559842049764,9.130344319295887,,https://www.ctmcagliari.it/fermate/fermata-DC0248,,,,1
+DP0291,0291,della Pineta (fronte via dei Colombi),,39.210200444970064,9.131919270551357,,https://www.ctmcagliari.it/fermate/fermata-DP0291,,,,0
+DV0425,0425,L. da Vinci (Scuole),,39.219088340068464,9.282269644047957,,https://www.ctmcagliari.it/fermate/fermata-DV0425,,,,1
+FA2015,2015,Fosse Ardeatine (fronte giardini ex Vetreria),,39.246920181051364,9.131982245996397,,https://www.ctmcagliari.it/fermate/fermata-FA2015,,,,1
+FA2128,2128,Favonio (civico 69),,39.199307570935264,9.148415005872517,,https://www.ctmcagliari.it/fermate/fermata-FA2128,,,,0
+GN0080,0080,Giorgino (villaggio pescatori),,39.212266679306764,9.091508847429867,,https://www.ctmcagliari.it/fermate/fermata-GN0080,,,,2
+HB2097,2097,Ingresso Ospedale Brotzu,,39.250066432641064,9.108233604392757,,https://www.ctmcagliari.it/fermate/fermata-HB2097,,,,2
+IN1137,1137,Pisano (casa di riposo),,39.242390641319464,9.140974885014217,,https://www.ctmcagliari.it/fermate/fermata-IN1137,,,,1
+LS0353,0353,Lungosaline (fronte via Ischia),,39.201605524418364,9.159939772644197,,https://www.ctmcagliari.it/fermate/fermata-LS0353,,,,0
+LU2140,2140,Lunigiana (fronte civico 44),,39.241652350232164,9.098761477448787,,https://www.ctmcagliari.it/fermate/fermata-LU2140,,,,0
+MA0219,0219,Marconi (fronte via Tommaseo),,39.226678557019864,9.130607992441907,,https://www.ctmcagliari.it/fermate/fermata-MA0219,,,,1
+MM0163,0163,Mameli (ang. via Caprera),,39.218988311995564,9.107978931477127,,https://www.ctmcagliari.it/fermate/fermata-MM0163,,,,1
+MT0868,0868,Mattei (ang. via Campania),,39.233626209172164,9.113222275562467,,https://www.ctmcagliari.it/fermate/fermata-MT0868,,,,2
+OS0060,0060,Ospedale (clinica Macciotta),,39.221641742763764,9.113056042722887,,https://www.ctmcagliari.it/fermate/fermata-OS0060,,,,2
+PV0441,0441,S.P. Villasimius (fronte via delle Acacie),,39.194630502581664,9.337233260269387,,https://www.ctmcagliari.it/fermate/fermata-PV0441,,,,2
+QR0032,0032,Quirra (mercato civico),,39.239078546449464,9.107743928792517,,https://www.ctmcagliari.it/fermate/fermata-QR0032,,,,1
+RT2071,2071,Vico Regina Margherita (lato civico 3),,39.214401667120364,9.117335421182307,,https://www.ctmcagliari.it/fermate/fermata-RT2071,,,,2
+SG1018,1018,San Giovanni (altezza civico 83),,39.218527553175764,9.118480444070887,,https://www.ctmcagliari.it/fermate/fermata-SG1018,,,,2
+TS0160,0160,Trieste (Assessorato RAS),,39.220447698218664,9.103452671420687,,https://www.ctmcagliari.it/fermate/fermata-TS0160,,,,2
+AG0722,0722,Autonomia Regionale (ang. via Pittori Europei),,39.238777341106064,9.276630064001817,,https://www.ctmcagliari.it/fermate/fermata-AG0722,,,,2
+BE0207,0207,San Benedetto (fronte Poste),,39.224437000230064,9.128647021094217,,https://www.ctmcagliari.it/fermate/fermata-BE0207,,,,1
+CA1187,1187,Caracalla (ang. via S. Giuliano),,39.258317202944764,9.133596262884057,,https://www.ctmcagliari.it/fermate/fermata-CA1187,,,,2
+CB0427,0427,Cabras  (ang. vico Zuddas),,39.252076198286064,9.145637077445857,,https://www.ctmcagliari.it/fermate/fermata-CB0427,,,,1
+GT0658,0658,San Gottardo (Chiesa),,39.259329795047964,9.145812911010457,,https://www.ctmcagliari.it/fermate/fermata-GT0658,,,,2
+LP0308,0308,Poetto (ponte Vittorio),,39.202580404820664,9.140659652932397,,https://www.ctmcagliari.it/fermate/fermata-LP0308,,,,1
+LS0352,0352,Lungosaline (ang. via Ischia),,39.201638281474564,9.160167921240647,,https://www.ctmcagliari.it/fermate/fermata-LS0352,,,,2
+MA0470,0470,Marconi (ang. via Angioy),,39.243105760524464,9.186704136016897,,https://www.ctmcagliari.it/fermate/fermata-MA0470,,,,1
+MC0555,0555,Santa Maria Chiara (ang. via Balilla),,39.245367111693364,9.126735096633637,,https://www.ctmcagliari.it/fermate/fermata-MC0555,,,,2
+OS0061,0061,Ospedale (ospedale),,39.221776997932564,9.112963222140027,,https://www.ctmcagliari.it/fermate/fermata-OS0061,,,,1
+PZ0709,0709,Pitz'e Serra,,39.240532574057464,9.213266513526427,,https://www.ctmcagliari.it/fermate/fermata-PZ0709,,,,1
+RE1016,1016,Del Redentore (altezza civico 56C),,39.253963207650064,9.142631902614867,,https://www.ctmcagliari.it/fermate/fermata-RE1016,,,,2
+SE0593,0593,Sulcitana Elmas (ang. via degli Sportivi),,39.274432995873964,9.033517957597107,,https://www.ctmcagliari.it/fermate/fermata-SE0593,,,,1
+TC1105,1105,Torricelli (ang. via Asfodelo),,39.236865947874164,9.130191998332777,,https://www.ctmcagliari.it/fermate/fermata-TC1105,,,,1
+TI0873,0873,Trentino (fronte via Molise),,39.230930907290264,9.114262171460027,,https://www.ctmcagliari.it/fermate/fermata-TI0873,,,,2
+VD0855,0855,Vidal (ang. via Solmi),,39.214949662324364,9.131557121060237,,https://www.ctmcagliari.it/fermate/fermata-VD0855,,,,1
+SF2133,2133,San Fulgenzio (campi sportivi),,39.260130799439164,9.133156530921247,,https://www.ctmcagliari.it/fermate/fermata-SF2133,,,,0
+SS0750,0750,S.S. 554 (cavalcavia pedonale),,39.235344912605064,9.216707725595877,,https://www.ctmcagliari.it/fermate/fermata-SS0750,,,,2
+TS0151,0151,Trieste (fronte via S. Paolo),,39.225108520641564,9.101023693452287,,https://www.ctmcagliari.it/fermate/fermata-TS0151,,,,2
+AG0720,0720,Autonomia Regionale (prima fermata),,39.242772590922564,9.275197227721837,,https://www.ctmcagliari.it/fermate/fermata-AG0720,,,,2
+AG2075,2075,delle Agavi (lato civico 63B),,39.259695109763764,9.117340158516787,,https://www.ctmcagliari.it/fermate/fermata-AG2075,,,,2
+AI1127,1127,Agavi (fronte via Pioppi),,39.258079671254364,9.120028449470807,,https://www.ctmcagliari.it/fermate/fermata-AI1127,,,,1
+AL0185,0185,Alghero (ang. via Dante),,39.216750702825064,9.124413886782257,,https://www.ctmcagliari.it/fermate/fermata-AL0185,,,,0
+CA0082,0082,Campania (ang. via Mattei),,39.232520651050964,9.113795296860617,,https://www.ctmcagliari.it/fermate/fermata-CA0082,,,,0
+CA0083,0083,Campania (fronte via Mattei),,39.232318915342964,9.113940358862637,,https://www.ctmcagliari.it/fermate/fermata-CA0083,,,,1
+CB0481,0481,Cabras (ang. via Monte Marganai),,39.250386479774664,9.142122679679467,,https://www.ctmcagliari.it/fermate/fermata-CB0481,,,,2
+CU2092,2092,Cittadella Universitaria - Lato Stazione Metro,,39.269245652857264,9.125923596826307,,https://www.ctmcagliari.it/fermate/fermata-CU2092,,,,1
+MA2081,2081,Don Matzeu (lato civico 3),,39.235729262466664,9.133914905736657,,https://www.ctmcagliari.it/fermate/fermata-MA2081,,,,1
+MP0095,0095,Piovella (fronte chiesa),,39.240367374668964,9.112241272520547,,https://www.ctmcagliari.it/fermate/fermata-MP0095,,,,1
+MR0404,0404,Margine Rosso (ang. via Othoca),,39.229299871346064,9.225502472518477,,https://www.ctmcagliari.it/fermate/fermata-MR0404,,,,1
+PB1184,1184,Porto Botte (ang. via Scevola),,39.255028801906564,9.133075343816757,,https://www.ctmcagliari.it/fermate/fermata-PB1184,,,,1
+PM0029,0029,Matteotti (Fronte Stazione ARST - capolinea M),,39.215561529563464,9.109246693359547,,https://www.ctmcagliari.it/fermate/fermata-PM0029,,,,1
+RL0064,0064,Regina Elena (Unione Sarda),,39.220087000992764,9.117945474101737,,https://www.ctmcagliari.it/fermate/fermata-RL0064,,,,2
+SA2115,2115,Sassari (fronte parcheggio Stazione),,39.215155540235864,9.108820895406017,,https://www.ctmcagliari.it/fermate/fermata-SA2115,,,,0
+SC0187,0187,Scano (clinica),,39.217730726935264,9.130520098405977,,https://www.ctmcagliari.it/fermate/fermata-SC0187,,,,0
+SV0344,0344,Schiavazzi (Lazzaretto),,39.191358337945164,9.139671810075077,,https://www.ctmcagliari.it/fermate/fermata-SV0344,,,,1
+SV0645,0645,Schiavazzi (fronte scuola),,39.196336694453964,9.139878537717117,,https://www.ctmcagliari.it/fermate/fermata-SV0645,,,,1
+TA2039,2039,Taloro (ang. via Tevere),,39.293469922073964,9.005352654606967,,https://www.ctmcagliari.it/fermate/fermata-TA2039,,,,1
+TS1150,1150,Tamburino Sardo (ang. via Montale),,39.252218083600764,9.115535364850717,,https://www.ctmcagliari.it/fermate/fermata-TS1150,,,,1
+AM0112,0112,Marongiu (fronte Cimitero San Michele),,39.243327846665764,9.102048602986917,,https://www.ctmcagliari.it/fermate/fermata-AM0112,,,,1
+CA2063,2063,Castelli lato civico 19,,39.232979642862764,9.106428599485177,,https://www.ctmcagliari.it/fermate/fermata-CA2063,,,,1
+CG2132,2132,Cettigne (parcheggi),,39.226848812238864,9.136531638475307,,https://www.ctmcagliari.it/fermate/fermata-CG2132,,,,0
+CI0236,0236,Ciusa (fronte via Biasi),,39.235196850058664,9.123822940555057,,https://www.ctmcagliari.it/fermate/fermata-CI0236,,,,1
+CO0460,0460,Colombo (scuole),,39.238249846913564,9.180350730828947,,https://www.ctmcagliari.it/fermate/fermata-CO0460,,,,1
+AD0274,0274,Diaz (Hotel Mediterraneo),,39.207703644571864,9.123942023153397,,https://www.ctmcagliari.it/fermate/fermata-AD0274,,,,1
+AG0725,0725,Autonomia Regionale (lato Cava),,39.232904377259564,9.279488452196797,,https://www.ctmcagliari.it/fermate/fermata-AG0725,,,,2
+CS2023,2023,Crespellani (oratorio),,39.254956250287864,9.097068247767137,,https://www.ctmcagliari.it/fermate/fermata-CS2023,,,,1
+EL0363,0363,Elmas (ang. via dell'Industria),,39.247859443368264,9.086489566345887,,https://www.ctmcagliari.it/fermate/fermata-EL0363,,,,1
+FI0448,0448,Fiume (ang. via Fieramosca),,39.237136030568264,9.197603927266527,,https://www.ctmcagliari.it/fermate/fermata-FI0448,,,,1
+FM0986,0986,Fieramosca (parco),,39.236255404210364,9.196154878993257,,https://www.ctmcagliari.it/fermate/fermata-FM0986,,,,1
+GP0764,0764,Peretti (uffici ASL),,39.251814498869264,9.103947854085867,,https://www.ctmcagliari.it/fermate/fermata-GP0764,,,,1
+GQ0380,0380,Saline (fronte AIAS),,39.216259399317464,9.176836662099107,,https://www.ctmcagliari.it/fermate/fermata-GQ0380,,,,0
+GT0662,0662,San Gottardo (fronte via Q.F. Massimo),,39.260560574829564,9.145184100890117,,https://www.ctmcagliari.it/fermate/fermata-GT0662,,,,2
+GV0454,0454,Vico (fronte via F.lli Rosselli),,39.236254362074964,9.191364656323477,,https://www.ctmcagliari.it/fermate/fermata-GV0454,,,,1
+MS0181,0181,Is Maglias (ang. via Trincea delle Frasche),,39.235692687448964,9.100151381672087,,https://www.ctmcagliari.it/fermate/fermata-MS0181,,,,1
+PA2085,2085,Parigi (lato sede Polizia Municipale),,39.238311169430764,9.135868464969127,,https://www.ctmcagliari.it/fermate/fermata-PA2085,,,,1
+PF0135,0135,Piero della Francesca (ang.via Monte Bianco),,39.256411672473164,9.102156677824957,,https://www.ctmcagliari.it/fermate/fermata-PF0135,,,,1
+PZ1259,1259,Pizzetti (fronte spiazzo),,39.232149984555164,9.179980995757277,,https://www.ctmcagliari.it/fermate/fermata-PZ1259,,,,1
+RG0857,0857,Raffa Garzia,,39.209919194339864,9.133594273671397,,https://www.ctmcagliari.it/fermate/fermata-RG0857,,,,1
+RV0243,0243,Riva Villasanta (fronte via Bellavista),,39.239894166130564,9.125607744902087,,https://www.ctmcagliari.it/fermate/fermata-RV0243,,,,1
+SD0618,0618,Nazionale (fronte via Toscana),,39.305432154592764,8.972769548766397,,https://www.ctmcagliari.it/fermate/fermata-SD0618,,,,2
+TA0991,0991,Tasso (ang. via Petrarca),,39.235269146194964,9.179097854058597,,https://www.ctmcagliari.it/fermate/fermata-TA0991,,,,2
+VR0656,0656,San Valeriano (scuola materna),,39.256865206692264,9.145887849692447,,https://www.ctmcagliari.it/fermate/fermata-VR0656,,,,2
+BE0208,0208,San Benedetto (Poste),,39.224508775474064,9.128929901795957,,https://www.ctmcagliari.it/fermate/fermata-BE0208,,,,1
+CA1188,1188,Caracalla (ang. via Capo d'Orso),,39.254533768479864,9.132576389008647,,https://www.ctmcagliari.it/fermate/fermata-CA1188,,,,2
+CA1198,1198,Caracalla (fermata Metro),,39.252418749156964,9.134278291604787,,https://www.ctmcagliari.it/fermate/fermata-CA1198,,,,1
+CM1174,1174,Centro commerciale,,39.230887010276764,9.092626081273527,,https://www.ctmcagliari.it/fermate/fermata-CM1174,,,,1
+CR0809,0809,Cornalias (fronte acquedotto),,39.247029731790264,9.103885742194257,,https://www.ctmcagliari.it/fermate/fermata-CR0809,,,,1
+DV0422,0422,L. da Vinci (fronte via Taormina),,39.219312695517064,9.273206856897347,,https://www.ctmcagliari.it/fermate/fermata-DV0422,,,,1
+EL2144,2144,Cagliari (Elmas civico 26),,39.261940953219764,9.063094981801067,,https://www.ctmcagliari.it/fermate/fermata-EL2144,,,,0
+FI2021,2021,Fiume (fronte via Borsellino),,39.235072937229764,9.202604086327137,,https://www.ctmcagliari.it/fermate/fermata-FI2021,,,,1
+LI2106,2106,Liguria (altezza civico 10),,39.309065214923764,8.973434514625817,,https://www.ctmcagliari.it/fermate/fermata-LI2106,,,,2
+NZ0956,0956,Nazionale (piazza del Crocifisso),,39.255387069065564,9.181400091603027,,https://www.ctmcagliari.it/fermate/fermata-NZ0956,,,,2
+PA0817,0817,Palau (ang. via Giulio Cesare),,39.261753590748764,9.138554484752487,,https://www.ctmcagliari.it/fermate/fermata-PA0817,,,,2
+PS0264,0264,Pessina  (ang. via Taramelli),,39.213438314954164,9.129321234813337,,https://www.ctmcagliari.it/fermate/fermata-PS0264,,,,1
+SS0946,0946,San Salvatore (ang. vico S. Salvatore),,39.258247165343564,9.170039416453917,,https://www.ctmcagliari.it/fermate/fermata-SS0946,,,,2
+TC1104,1104,Torricelli (ang. via Flavio Gioia),,39.237059318856864,9.130518249019577,,https://www.ctmcagliari.it/fermate/fermata-TC1104,,,,1
+TS0526,0526,Trieste (ang. via Bezzecca),,39.254234772747964,9.165534210437157,,https://www.ctmcagliari.it/fermate/fermata-TS0526,,,,2
+AG0723,0723,Autonomia Regionale (ang. via Palma Fiorita),,39.239142348776264,9.276603258525457,,https://www.ctmcagliari.it/fermate/fermata-AG0723,,,,2
+BA0014,0014,Bacaredda (Mercato Civico),,39.223328063689164,9.121727616152567,,https://www.ctmcagliari.it/fermate/fermata-BA0014,,,,1
+BA1178,1178,Baronia (ang. via Edison),,39.295203438934164,9.002769252553107,,https://www.ctmcagliari.it/fermate/fermata-BA1178,,,,1
+BE0679,0679,Bellini (ang. via S.Martino),,39.259838446362164,9.163146950371547,,https://www.ctmcagliari.it/fermate/fermata-BE0679,,,,2
+BR0914,0914,Brigata Sassari (ang. via Lombardia),,39.243725817025864,9.179181647524207,,https://www.ctmcagliari.it/fermate/fermata-BR0914,,,,1
+CU0741,0741,Cittadella Universitaria,,39.268759087087064,9.122957842335717,,https://www.ctmcagliari.it/fermate/fermata-CU0741,,,,1
+FU0710,0710,Sa Funtanedda (ang. via Tibula),,39.240262125361264,9.229906550535367,,https://www.ctmcagliari.it/fermate/fermata-FU0710,,,,2
+GT0881,0881,Giotto (fronte giardini),,39.249641894340864,9.099899590231977,,https://www.ctmcagliari.it/fermate/fermata-GT0881,,,,1
+MR0409,0409,Margine Rosso (fronte via Marco Polo),,39.226617615107564,9.238483125579147,,https://www.ctmcagliari.it/fermate/fermata-MR0409,,,,2
+PA2086,2086,Pascal (fronte civico 1),,39.238479444490264,9.136819513219357,,https://www.ctmcagliari.it/fermate/fermata-PA2086,,,,1
+PT0203,0203,Petrarca (ang. via Cavalcanti),,39.223259723513764,9.125748969253327,,https://www.ctmcagliari.it/fermate/fermata-PT0203,,,,0
+RS0364,0364,Risorgimento (ang. via Mentana),,39.243164144536064,9.134575335409437,,https://www.ctmcagliari.it/fermate/fermata-RS0364,,,,2
+SD0839,0839,Cagliari (prima fermata Dec -> Ass),,39.301833478008864,8.978352836957917,,https://www.ctmcagliari.it/fermate/fermata-SD0839,,,,2
+SV0907,0907,Schiavazzi (piazza Demuro),,39.196657986396064,9.138707720001257,,https://www.ctmcagliari.it/fermate/fermata-SV0907,,,,1
+TS0527,0527,Trieste (Comune),,39.254095320602664,9.165381032058967,,https://www.ctmcagliari.it/fermate/fermata-TS0527,,,,1
+TS0635,0635,Trieste (CTM),,39.222561906927764,9.102175639825887,,https://www.ctmcagliari.it/fermate/fermata-TS0635,,,,2
+VS0365,0365,Vesalio (cittadella finanziaria),,39.241833114590664,9.136219391453857,,https://www.ctmcagliari.it/fermate/fermata-VS0365,,,,1
+AN0904,0904,Andorra,,39.229380876199364,9.135411435145507,,https://www.ctmcagliari.it/fermate/fermata-AN0904,,,,1
+BA0011,0011,Bacaredda (Conservatorio),,39.225278730786164,9.120982651444417,,https://www.ctmcagliari.it/fermate/fermata-BA0011,,,,1
+CA0085,0085,Campania (ang. via Capitanata),,39.233596069342964,9.111774254409337,,https://www.ctmcagliari.it/fermate/fermata-CA0085,,,,1
+CO0463,0463,Colombo (ang. via Gramsci),,39.241024919961764,9.177618732347247,,https://www.ctmcagliari.it/fermate/fermata-CO0463,,,,0
+EL0127,0127,Elmas (terza fermata),,39.249838477614364,9.084958566386457,,https://www.ctmcagliari.it/fermate/fermata-EL0127,,,,1
+OR2076,2076,delle Ortensie (lato civico 27),,39.258228923969864,9.115642860703167,,https://www.ctmcagliari.it/fermate/fermata-OR2076,,,,2
+PM0030,0030,Matteotti (capolinea 30 - QEx fronte stazione FS),,39.214889347984764,9.109462868628107,,https://www.ctmcagliari.it/fermate/fermata-PM0030,,,,1
+RE0538,0538,Redentore (Giardinetti),,39.258104467323764,9.138293752555737,,https://www.ctmcagliari.it/fermate/fermata-RE0538,,,,1
+TG2066,2066,Tigellio (lato civico 8),,39.220569992546764,9.107710923742497,,https://www.ctmcagliari.it/fermate/fermata-TG2066,,,,1
+AF1176,1176,Africa (ang. via Iglesias),,39.297412641050664,8.998884951969507,,https://www.ctmcagliari.it/fermate/fermata-AF1176,,,,1
+AG0726,0726,Autonomia Regionale (ang. via Cixerri),,39.228281293233664,9.281547595179277,,https://www.ctmcagliari.it/fermate/fermata-AG0726,,,,2
+AV0149,0149,S. Avendrace (fronte via Coghinas),,39.227315673535564,9.100054897537367,,https://www.ctmcagliari.it/fermate/fermata-AV0149,,,,1
+CU2088,2088,Cittadella Univeritaria - lato Fisica,,39.270408345682864,9.121415380439347,,https://www.ctmcagliari.it/fermate/fermata-CU2088,,,,2
+DM0502,0502,Don Minzoni (scuole),,39.249030504034664,9.175078773531907,,https://www.ctmcagliari.it/fermate/fermata-DM0502,,,,1
+DV0421,0421,L. da Vinci (Su Meriagu),,39.220067097738864,9.268477882912607,,https://www.ctmcagliari.it/fermate/fermata-DV0421,,,,1
+FB0453,0453,F.lli Bandiera (ang. via Bayle),,39.237111964049264,9.193149625537807,,https://www.ctmcagliari.it/fermate/fermata-FB0453,,,,2
+FM0987,0987,Fieramosca (ang. via Trieste),,39.234867705723364,9.193465739533167,,https://www.ctmcagliari.it/fermate/fermata-FM0987,,,,2
+GN2098,2098,Giorgino (traversa Porto Canale),,39.208302327053764,9.084477527708027,,https://www.ctmcagliari.it/fermate/fermata-GN2098,,,,2
+HB0520,0520,Ospedale Brotzu (capolinea 1),,39.250264743240364,9.108662256853707,,https://www.ctmcagliari.it/fermate/fermata-HB0520,,,,0
+MA0519,0519,Marconi (fronte Vigili del Fuoco),,39.241073233974064,9.149644039307277,,https://www.ctmcagliari.it/fermate/fermata-MA0519,,,,2
+MR0401,0401,Margine Rosso (ang. via Scirocco),,39.229916475707964,9.223501134769397,,https://www.ctmcagliari.it/fermate/fermata-MR0401,,,,2
+NA0622,0622,Nazionale (ang. via Stazione),,39.309102616747164,8.967075091582987,,https://www.ctmcagliari.it/fermate/fermata-NA0622,,,,1
+DP0296,0296,della Pineta (fronte Chiesa),,39.205378542818964,9.136696555553407,,https://www.ctmcagliari.it/fermate/fermata-DP0296,,,,1
+DP0297,0297,della Pineta (Chiesa),,39.205283097754364,9.137401430402297,,https://www.ctmcagliari.it/fermate/fermata-DP0297,,,,1
+GI0250,0250,Flavio Gioia (Chiesa),,39.236538465132964,9.132925249356037,,https://www.ctmcagliari.it/fermate/fermata-GI0250,,,,1
+GQ0386,0386,Golfo di Quartu S.E. (fronte lido VV.FF.),,39.220641275323364,9.186765171805117,,https://www.ctmcagliari.it/fermate/fermata-GQ0386,,,,0
+LP0335,0335,Poetto (fronte via dei Tritoni),,39.195166473152164,9.153239315763957,,https://www.ctmcagliari.it/fermate/fermata-LP0335,,,,1
+LS0351,0351,Lungosaline (fronte via Montecristo),,39.198764651454364,9.158640888703327,,https://www.ctmcagliari.it/fermate/fermata-LS0351,,,,0
+MA1265,1265,Marconi (ang. via Cavaro),,39.244483795695664,9.189888482138167,,https://www.ctmcagliari.it/fermate/fermata-MA1265,,,,2
+PB1185,1185,Porto Botte (ang. via Aritzo) ,,39.257879072065164,9.133792902725787,,https://www.ctmcagliari.it/fermate/fermata-PB1185,,,,1
+PS0867,0867,Pessina (Palazzo di Giustizia),,39.216230969544264,9.125902947532817,,https://www.ctmcagliari.it/fermate/fermata-PS0867,,,,1
+SM0106,0106,San Michele (angolo via Redipuglia),,39.237463090057864,9.100448647348217,,https://www.ctmcagliari.it/fermate/fermata-SM0106,,,,1
+TS0161,0161,Trieste (fronte Assessorato RAS),,39.219342557045964,9.104897663378757,,https://www.ctmcagliari.it/fermate/fermata-TS0161,,,,2
+BS0906,0906,Borgo Sant'Elia (ang. via Livingstone),,39.192897749126164,9.140899807988537,,https://www.ctmcagliari.it/fermate/fermata-BS0906,,,,1
+CA609,609,Cagliari (ang. via dei Mille),,39.290869696175264,8.999424509371067,,https://www.ctmcagliari.it/fermate/fermata-CA609,,,,0
+LG0755,0755,Alfonso Ligas,,39.251887545288864,9.111663043653347,,https://www.ctmcagliari.it/fermate/fermata-LG0755,,,,1
+MA0229,0229,Marconi (Asse Mediano),,39.231296865820464,9.134415434382447,,https://www.ctmcagliari.it/fermate/fermata-MA0229,,,,2
+MA0521,0521,Marconi (lato civico 175),,39.237355684981064,9.143044680875647,,https://www.ctmcagliari.it/fermate/fermata-MA0521,,,,2
+MS0182,0182,Is Maglias (ang. via Pasubio),,39.235277963384264,9.100405347362777,,https://www.ctmcagliari.it/fermate/fermata-MS0182,,,,1
+NA0624,0624,Nazionale (fronte chiesa),,39.309632971816364,8.962801969417497,,https://www.ctmcagliari.it/fermate/fermata-NA0624,,,,1
+NO0849,0849,IV Novembre (fronte via Fiume),,39.239316134581464,9.192553481526587,,https://www.ctmcagliari.it/fermate/fermata-NO0849,,,,2
+NP0707,0707,Paganini (ang. v. Antonio Fogazzaro),,39.234338492306564,9.180731043137007,,https://www.ctmcagliari.it/fermate/fermata-NP0707,,,,1
+PE0191,0191,Pergolesi (ang. via Cimarosa),,39.221065878877164,9.129554250177547,,https://www.ctmcagliari.it/fermate/fermata-PE0191,,,,0
+PV0439,0439,S.P. Villasimius (Is Mortorius),,39.199078742511464,9.327297727369037,,https://www.ctmcagliari.it/fermate/fermata-PV0439,,,,2
+PZ0708,0708,Pitz' e Serra (Liceo),,39.240682399673564,9.212640490478417,,https://www.ctmcagliari.it/fermate/fermata-PZ0708,,,,1
+SI2065,2065,Sant'Ignazio da Laconi (lato civico 74),,39.222991405587764,9.110432038116577,,https://www.ctmcagliari.it/fermate/fermata-SI2065,,,,2
+SM0108,0108,San Michele (Chiesa),,39.237580336326964,9.100328595243057,,https://www.ctmcagliari.it/fermate/fermata-SM0108,,,,1
+SM0143,0143,S. Michele (ang. via Col di Lana),,39.235000969347364,9.097645432137547,,https://www.ctmcagliari.it/fermate/fermata-SM0143,,,,1
+SV0541,0541,Schiavazzi (piazza Pigafetta),,39.193458054450764,9.139553657624247,,https://www.ctmcagliari.it/fermate/fermata-SV0541,,,,1
+AD0282,0282,Diaz (fronte Fiera),,39.205652523804064,9.129559943687367,,https://www.ctmcagliari.it/fermate/fermata-AD0282,,,,1
+AQ0313,0313,Aquilone (fronte via Ostro),,39.203716931050164,9.144633203516557,,https://www.ctmcagliari.it/fermate/fermata-AQ0313,,,,1
+AV0147,0147,S. Avendrace (ang. via Flumendosa),,39.229971809447064,9.098862248758477,,https://www.ctmcagliari.it/fermate/fermata-AV0147,,,,1
+CA2064,2064,Castelli fronte civico 11,,39.232635037582164,9.106554488554057,,https://www.ctmcagliari.it/fermate/fermata-CA2064,,,,1
+CI0002,0002,Ciusa (deposito CTM),,39.232112964301164,9.121565752579427,,https://www.ctmcagliari.it/fermate/fermata-CI0002,,,,1
+CO0461,0461,Colombo (ang. via Rossini),,39.237415423915964,9.180935923241927,,https://www.ctmcagliari.it/fermate/fermata-CO0461,,,,1
+CT0232,0232,Castiglione (ang. via Serra),,39.231305325458464,9.130944255360747,,https://www.ctmcagliari.it/fermate/fermata-CT0232,,,,1
+CU2089,2089,Cittadella Universitaria,,39.271419451009964,9.122518620310967,,https://www.ctmcagliari.it/fermate/fermata-CU2089,,,,1
+DE0920,0920,Dessy (fronte Comune),,39.240665473737864,9.185649320644637,,https://www.ctmcagliari.it/fermate/fermata-DE0920,,,,1
+DM0501,0501,Don Minzoni (ang. via delle Serre),,39.250631375150364,9.174127706551487,,https://www.ctmcagliari.it/fermate/fermata-DM0501,,,,2
+DM0505,0505,Don Minzoni (fronte Scuole),,39.248904495294864,9.174982489524727,,https://www.ctmcagliari.it/fermate/fermata-DM0505,,,,2
+DT0896,0896,Sini (ang. via Gherardo delle Notti),,39.253489447308464,9.094659116452037,,https://www.ctmcagliari.it/fermate/fermata-DT0896,,,,1
+ID0744,0744,Indipendenza (Torre San Pancrazio),,39.221223663403964,9.116679220995027,,https://www.ctmcagliari.it/fermate/fermata-ID0744,,,,2
+IT0551,0551,Italia (fronte Vetreria),,39.248583546295464,9.131237141336837,,https://www.ctmcagliari.it/fermate/fermata-IT0551,,,,2
+IT2107,2107,Italia (Fronte Via Liguria),,39.308870000239464,8.969729133748327,,https://www.ctmcagliari.it/fermate/fermata-IT2107,,,,2
+LP0310,0310,Poetto (stadio Amsicora),,39.204709466062664,9.138609542770817,,https://www.ctmcagliari.it/fermate/fermata-LP0310,,,,2
+MA0255,0255,Marconi (Istituto ITS Mo.So.s.),,39.235714368564664,9.140260503161127,,https://www.ctmcagliari.it/fermate/fermata-MA0255,,,,0
+MC0239,0239,Santa Maria Chiara (ang. via Cuoco),,39.241012212888764,9.120698619539287,,https://www.ctmcagliari.it/fermate/fermata-MC0239,,,,1
+PC0119,0119,Abruzzi (cimitero S. Michele),,39.242391494900664,9.101143366815887,,https://www.ctmcagliari.it/fermate/fermata-PC0119,,,,0
+PM2113,2113,Matteotti (Fronte Stazione FS),,39.215314519254564,9.108996912550357,,https://www.ctmcagliari.it/fermate/fermata-PM2113,,,,0
+QU1271,1271,Quartu (fronte Chiesa),,39.251256791566864,9.177575724800967,,https://www.ctmcagliari.it/fermate/fermata-QU1271,,,,2
+RT0746,0746,Regina Margherita (Hotel),,39.213704448944964,9.116202346400677,,https://www.ctmcagliari.it/fermate/fermata-RT0746,,,,2
+SE0586,0586,Sulcitana Elmas (piazza Suella),,39.267055827410964,9.050721702341697,,https://www.ctmcagliari.it/fermate/fermata-SE0586,,,,1
+SE0594,0594,Sulcitana Elmas (fronte via degli sportivi),,39.274504008803964,9.033179635525417,,https://www.ctmcagliari.it/fermate/fermata-SE0594,,,,2
+TR0311,0311,Tramontana (campo Rossi),,39.203671939054564,9.143371977673827,,https://www.ctmcagliari.it/fermate/fermata-TR0311,,,,1
+AB0109,0109,Abruzzi (ang. via Campeda),,39.240553375083864,9.100724605635277,,https://www.ctmcagliari.it/fermate/fermata-AB0109,,,,0
+AD0275,0275,Diaz (ang. via Bottego),,39.208119063284964,9.123550591095827,,https://www.ctmcagliari.it/fermate/fermata-AD0275,,,,1
+BU2000,2000,Italia (portici),,39.236378886813064,9.208079524680957,,https://www.ctmcagliari.it/fermate/fermata-BU2000,,,,2
+CB0547,0547,Cabras (Polizia Municipale),,39.250216802727464,9.141953281405427,,https://www.ctmcagliari.it/fermate/fermata-CB0547,,,,1
+CH1103,1103,Chiabrera (ang. via Rosa),,39.232713482841464,9.128753019356717,,https://www.ctmcagliari.it/fermate/fermata-CH1103,,,,0
+CO0462,0462,Colombo (ang. via Meucci),,39.240537346745164,9.178260630186097,,https://www.ctmcagliari.it/fermate/fermata-CO0462,,,,0
+DG1132,1132,Duca di Genova (ang. via Conte Verde),,39.248900712202464,9.129646016602157,,https://www.ctmcagliari.it/fermate/fermata-DG1132,,,,2
+DS0336,0336,Del Sole (Capolinea 3),,39.198627810432164,9.152403229358837,,https://www.ctmcagliari.it/fermate/fermata-DS0336,,,,0
+EL0130,0130,Elmas (fronte via dell'Autonomia),,39.252489542684764,9.082395342328797,,https://www.ctmcagliari.it/fermate/fermata-EL0130,,,,1
+EL0582,0582,Cagliari (Elmas fronte Provveditorato),,39.262838262308364,9.061034423799367,,https://www.ctmcagliari.it/fermate/fermata-EL0582,,,,2
+LI2048,2048,della Libertà altezza civico 97,,39.257569276941964,9.155396572124957,,https://www.ctmcagliari.it/fermate/fermata-LI2048,,,,2
+PM0832,0832,Matteotti (fronte stazione FS),,39.215501695089864,9.109344135997987,,https://www.ctmcagliari.it/fermate/fermata-PM0832,,,,2
+PT1144,1144,Pitagora (capolinea CEP),,39.235143574139564,9.131328326878867,,https://www.ctmcagliari.it/fermate/fermata-PT1144,,,,2
+RM0024,0024,Roma (Molo Sanità),,39.214046876670464,9.111585065500007,,https://www.ctmcagliari.it/fermate/fermata-RM0024,,,,1
+UV2059,2059,Policlinico Universitario,,39.271072244022064,9.127378693567167,,https://www.ctmcagliari.it/fermate/fermata-UV2059,,,,2
+AS1000,1000,Ariosto (ang. via Oslo),,39.234721465373164,9.194704779573687,,https://www.ctmcagliari.it/fermate/fermata-AS1000,,,,2
+CS0137,0137,Crespellani (ang. via Masaccio),,39.255535969563164,9.098836577041207,,https://www.ctmcagliari.it/fermate/fermata-CS0137,,,,1
+EC0853,0853,S'Ecca S'Arrideli (quarta fermata),,39.242564449155764,9.243205370098567,,https://www.ctmcagliari.it/fermate/fermata-EC0853,,,,2
+FN0123,0123,del Fangario (ang. viale Elmas),,39.243028246092564,9.094002272618877,,https://www.ctmcagliari.it/fermate/fermata-FN0123,,,,2
+GV0997,0997,Vico (ang. via Colombo),,39.234412306950364,9.185365982393357,,https://www.ctmcagliari.it/fermate/fermata-GV0997,,,,2
+IM0101,0101,Is Mirrionis (ang. via Timavo),,39.237026016185364,9.105588804856367,,https://www.ctmcagliari.it/fermate/fermata-IM0101,,,,1
+MC0240,0240,Santa Maria Chiara (fronte via Calamattia),,39.240926977120664,9.120342503124337,,https://www.ctmcagliari.it/fermate/fermata-MC0240,,,,1
+PG0221,0221,Giovanni XXIII (Chiesa),,39.227215708746364,9.126371125423797,,https://www.ctmcagliari.it/fermate/fermata-PG0221,,,,1
+PS2142,2142,del Pino Solitario (Ufficio Postale),,39.270623545443164,9.050140134435687,,https://www.ctmcagliari.it/fermate/fermata-PS2142,,,,0
+PV0434,0434,S.P. Villasimius (fronte via del Galeone),,39.208537419847664,9.311925922057807,,https://www.ctmcagliari.it/fermate/fermata-PV0434,,,,2
+RL0067,0067,Regina Elena (Giardini Pubblici),,39.222704670474064,9.117973395743047,,https://www.ctmcagliari.it/fermate/fermata-RL0067,,,,2
+SO2052,2052,Socrate (fronte civico n. 7),,39.247336793081864,9.121776727214217,,https://www.ctmcagliari.it/fermate/fermata-SO2052,,,,0
+ST0628,0628,Stendardi (fronte palestra),,39.251298393769764,9.120544575535647,,https://www.ctmcagliari.it/fermate/fermata-ST0628,,,,2
+AG1129,1129,Segni (fronte via Torre delle Stelle),,39.256004987750564,9.126334095067437,,https://www.ctmcagliari.it/fermate/fermata-AG1129,,,,1
+AM0810,0810,Marongiu (Cimitero San Michele),,39.243737683820264,9.102233522284077,,https://www.ctmcagliari.it/fermate/fermata-AM0810,,,,1
+AZ0211,0211,dell'Abbazia  (ang. via Francoforte),,39.222915478536064,9.135416388387877,,https://www.ctmcagliari.it/fermate/fermata-AZ0211,,,,1
+BT0875,0875,Basilicata (scuole),,39.228379671405564,9.115402499684237,,https://www.ctmcagliari.it/fermate/fermata-BT0875,,,,0
+EC0712,0712,Sa Funtanedda,,39.241574483033764,9.236032938182327,,https://www.ctmcagliari.it/fermate/fermata-EC0712,,,,2
+FU0711,0711,Sa Funtanedda (ang. via Carbia),,39.240231367800164,9.229510644790997,,https://www.ctmcagliari.it/fermate/fermata-FU0711,,,,2
+GC0301,0301,Cagna (ang. via Curie),,39.206993618183364,9.138730586215617,,https://www.ctmcagliari.it/fermate/fermata-GC0301,,,,1
+LP0375,0375,Poetto (fronte vecchio Ospedale),,39.211787064571064,9.171617100354577,,https://www.ctmcagliari.it/fermate/fermata-LP0375,,,,0
+MM0044,0044,Mameli (ang. largo Carlo Felice),,39.216722428054964,9.112335007752117,,https://www.ctmcagliari.it/fermate/fermata-MM0044,,,,1
+MO0981,0981,Mori (ang. via Negri),,39.238959429975664,9.187503200157007,,https://www.ctmcagliari.it/fermate/fermata-MO0981,,,,2
+RG0864,0864,Raffa Garzia,,39.209927620589364,9.134103217145567,,https://www.ctmcagliari.it/fermate/fermata-RG0864,,,,1
+SA0595,0595,Sulcitana Assemini (ang. via delle Margherite),,39.277642809357864,9.025992439618947,,https://www.ctmcagliari.it/fermate/fermata-SA0595,,,,2
+SA0731,0731,Sulcitana Assemini (ang. via Sitzia),,39.275573623433864,9.030821525326457,,https://www.ctmcagliari.it/fermate/fermata-SA0731,,,,2
+SD0615,0615,Cagliari (prima fermata Ass -> Dec),,39.298652304958964,8.983496180620687,,https://www.ctmcagliari.it/fermate/fermata-SD0615,,,,2
+AS1113,1113,Ariosto (ang. via Dublino),,39.235925145438764,9.196959623471497,,https://www.ctmcagliari.it/fermate/fermata-AS1113,,,,1
+BI1192,1192,Biasi (ANAS),,39.232914268322864,9.126430984492637,,https://www.ctmcagliari.it/fermate/fermata-BI1192,,,,1
+CM0602,0602,Carmine (Chiesa),,39.282636934190064,9.013878780872457,,https://www.ctmcagliari.it/fermate/fermata-CM0602,,,,1
+GI0249,0249,Flavio Gioia (fronte Chiesa),,39.236245624087264,9.132911301940077,,https://www.ctmcagliari.it/fermate/fermata-GI0249,,,,1
+GI0252,0252,Flavio Gioia (portici),,39.234209433511464,9.132655086848307,,https://www.ctmcagliari.it/fermate/fermata-GI0252,,,,1
+LP0371,0371,Poetto (ang. via Tramontana),,39.201004920012364,9.143170760825807,,https://www.ctmcagliari.it/fermate/fermata-LP0371,,,,2
+LP0376,0376,Poetto (ex Ospedale Marino),,39.211451255656264,9.171326172541937,,https://www.ctmcagliari.it/fermate/fermata-LP0376,,,,0
+MR0411,0411,Margine Rosso (ang. via Pianosa),,39.225902790470664,9.243380292817117,,https://www.ctmcagliari.it/fermate/fermata-MR0411,,,,1
+MR2131,2131,Margine Rosso (ang. via Cipro),,39.224869415975164,9.246015599310737,,https://www.ctmcagliari.it/fermate/fermata-MR2131,,,,0
+MS0172,0172,Is Maglias (ang. via Asiago),,39.233861969399064,9.101866520762987,,https://www.ctmcagliari.it/fermate/fermata-MS0172,,,,1
+NZ0963,0963,Nazionale (ang. via Quartu),,39.252537074575864,9.177192872881607,,https://www.ctmcagliari.it/fermate/fermata-NZ0963,,,,2
+RE0837,0837,Repubblica (ang. via Stazione),,39.307407516921964,8.963533878876377,,https://www.ctmcagliari.it/fermate/fermata-RE0837,,,,2
+TN0155,0155,Trento (teatro Massimo),,39.222391956084164,9.105812694867247,,https://www.ctmcagliari.it/fermate/fermata-TN0155,,,,2
+BE0217,0217,San Benedetto (Buon Pastore),,39.221835601893664,9.126103020219597,,https://www.ctmcagliari.it/fermate/fermata-BE0217,,,,1
+BL1115,1115,Balilla (ang. via Bragadin),,39.246699080170064,9.124087981214387,,https://www.ctmcagliari.it/fermate/fermata-BL1115,,,,2
+BS0324,0324,Borgo Sant'Elia (ang. viale Ferrara),,39.197071351139264,9.143373765925347,,https://www.ctmcagliari.it/fermate/fermata-BS0324,,,,1
+CL0370,0370,Calamosca (prima fermata),,39.193713423752664,9.148026150242627,,https://www.ctmcagliari.it/fermate/fermata-CL0370,,,,1
+GT0666,0666,San Gottardo (ang. via Cortis),,39.262364152205364,9.144065986753197,,https://www.ctmcagliari.it/fermate/fermata-GT0666,,,,2
+GT0805,0805,Giotto (ang. via Deliperi),,39.249617783668564,9.101728511620437,,https://www.ctmcagliari.it/fermate/fermata-GT0805,,,,1
+PB1183,1183,Porto Botte (fermta Metrò),,39.252755971273964,9.134874365888687,,https://www.ctmcagliari.it/fermate/fermata-PB1183,,,,1
+PO0979,0979,Eligio Porcu (ang. via Cavour),,39.241552282557064,9.183292053443597,,https://www.ctmcagliari.it/fermate/fermata-PO0979,,,,2
+PV0429,0429,S.P. Villasimius (ang. via lago di Alserio),,39.215715674059664,9.301277438936317,,https://www.ctmcagliari.it/fermate/fermata-PV0429,,,,2
+CP0644,0644,Costantinopoli (ang. via Atene),,39.225352523921464,9.135786382197177,,https://www.ctmcagliari.it/fermate/fermata-CP0644,,,,1
+CP1139,1139,Circonv. Pirri (ang. via Timo),,39.253220522273364,9.113273348528277,,https://www.ctmcagliari.it/fermate/fermata-CP1139,,,,2
+DV0754,0754,L. da Vinci (ang. via Is Pardinas),,39.225023133760564,9.246041519404337,,https://www.ctmcagliari.it/fermate/fermata-DV0754,,,,1
+FI0443,0443,Fiume (fronte canneto),,39.233199328308464,9.214799822116897,,https://www.ctmcagliari.it/fermate/fermata-FI0443,,,,1
+FI0447,0447,Fiume (ang. via San Salvatore),,39.237302793025364,9.197568914645277,,https://www.ctmcagliari.it/fermate/fermata-FI0447,,,,1
+GQ0399,0399,Golfo di Quartu S.E. (ang. via Da Vinci),,39.229452454486464,9.218730912690787,,https://www.ctmcagliari.it/fermate/fermata-GQ0399,,,,2
+LP0357,0357,Poetto (ang. via Tremiti),,39.206524181941164,9.165263031750727,,https://www.ctmcagliari.it/fermate/fermata-LP0357,,,,0
+MA0911,0911,Marconi (fronte Clinica),,39.242014633111564,9.175632775583877,,https://www.ctmcagliari.it/fermate/fermata-MA0911,,,,1
+ME0157,0157,Merello (chiesa),,39.222395480854264,9.106886841126507,,https://www.ctmcagliari.it/fermate/fermata-ME0157,,,,1
+MI0281,0281,Milano (ang. via Perugia),,39.208114116362664,9.128130048039417,,https://www.ctmcagliari.it/fermate/fermata-MI0281,,,,1
+NG1107,1107,Nigra (fronte polisportiva),,39.241977650354364,9.195989751958767,,https://www.ctmcagliari.it/fermate/fermata-NG1107,,,,2
+PG0222,0222,Giovanni XXIII (fronte via Alberti),,39.227376813919464,9.126614019430027,,https://www.ctmcagliari.it/fermate/fermata-PG0222,,,,1
+PR0978,0978,Parini (ang via Cilea),,39.237548149501464,9.179600817392107,,https://www.ctmcagliari.it/fermate/fermata-PR0978,,,,2
+PZ0752,0752,Pitz' e Serra (fronte N.S. del Buoncammino),,39.239735579261364,9.224987271332607,,https://www.ctmcagliari.it/fermate/fermata-PZ0752,,,,2
+RL0053,0053,Regina Elena (fronte Bastione),,39.216274252603664,9.117033870147497,,https://www.ctmcagliari.it/fermate/fermata-RL0053,,,,2
+TI2051,2051,Dei Tigli (fronte civico 2),,39.241764688501864,9.120641609517697,,https://www.ctmcagliari.it/fermate/fermata-TI2051,,,,0
+BA0009,0009,Bacaredda (fronte via Benedetta),,39.227204714480764,9.119814922551657,,https://www.ctmcagliari.it/fermate/fermata-BA0009,,,,1
+CA1112,1112,Cagliari (ang. via Livorno),,39.246823198442364,9.186445280535997,,https://www.ctmcagliari.it/fermate/fermata-CA1112,,,,1
+CP0883,0883,Carpaccio (Circoscrizione),,39.251040213461764,9.097993274162147,,https://www.ctmcagliari.it/fermate/fermata-CP0883,,,,0
+DA0206,0206,Dante (ang. via Todde),,39.225319190602564,9.125328700410177,,https://www.ctmcagliari.it/fermate/fermata-DA0206,,,,1
+DA0271,0271,Dante (ang. via San Lucifero),,39.213786774074164,9.123760709883937,,https://www.ctmcagliari.it/fermate/fermata-DA0271,,,,1
+EC0553,0553,S'Ecca S'Arrideli (seconda fermata),,39.242684382850364,9.252479991867787,,https://www.ctmcagliari.it/fermate/fermata-EC0553,,,,2
+EL0129,0129,Elmas (ang. via dell'Autonomia),,39.252277721156264,9.082485645687967,,https://www.ctmcagliari.it/fermate/fermata-EL0129,,,,1
+GD0676,0676,Deledda (ang. piazza Giovanni XXIII),,39.247600743297064,9.157196587344657,,https://www.ctmcagliari.it/fermate/fermata-GD0676,,,,1
+GQ0397,0397,Golfo di Quartu S.E. (Fortino),,39.228160949461964,9.212749721137227,,https://www.ctmcagliari.it/fermate/fermata-GQ0397,,,,0
+LV0071,0071,La Vega (Clinica),,39.225791557501264,9.117361267117447,,https://www.ctmcagliari.it/fermate/fermata-LV0071,,,,1
+MR0405,0405,Margine Rosso (fronte via Neapolis),,39.228347105200864,9.228892635095677,,https://www.ctmcagliari.it/fermate/fermata-MR0405,,,,2
+SL0614,0614,Gobetti (lato Santa Lucia) ,,39.293861450189064,8.990143802180877,,https://www.ctmcagliari.it/fermate/fermata-SL0614,,,,1
+TM0442,0442,delle Ninfee (Terramala),,39.191500155612464,9.339995282467857,,https://www.ctmcagliari.it/fermate/fermata-TM0442,,,,2
