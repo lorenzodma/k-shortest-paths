@@ -1,0 +1,3 @@
+- Definition of classes: Graph, Node, Edge
+- Implementation in Python of Dijkstra and Yen's algorithm
+- Test of the algorithms on a dataset about Cagliari's bus lines and other small graphs 
